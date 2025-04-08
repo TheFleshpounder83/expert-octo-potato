@@ -1,0 +1,5 @@
+agent-secret = "2028304d105d1f9c0a3cfdb73d98e5d874ea881d1556dfa045cf95ee941a5a5a"
+mc-timeout-sec = 30
+#Automatically start the playit-tunnel when the server starts
+autostart = true
+

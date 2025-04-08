@@ -1,0 +1,2306 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "none",
+			"facing": "north",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "none",
+			"facing": "north",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "none",
+			"facing": "north",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "none",
+			"facing": "north",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "left",
+			"facing": "north",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "left",
+			"facing": "north",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "left",
+			"facing": "north",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "left",
+			"facing": "north",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "right",
+			"facing": "north",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "right",
+			"facing": "north",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "right",
+			"facing": "north",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "right",
+			"facing": "north",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "none",
+			"facing": "south",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "none",
+			"facing": "south",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "none",
+			"facing": "south",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "none",
+			"facing": "south",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "left",
+			"facing": "south",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "left",
+			"facing": "south",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "left",
+			"facing": "south",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "left",
+			"facing": "south",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "right",
+			"facing": "south",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "right",
+			"facing": "south",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "right",
+			"facing": "south",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "right",
+			"facing": "south",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "none",
+			"facing": "west",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "none",
+			"facing": "west",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "none",
+			"facing": "west",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "none",
+			"facing": "west",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "left",
+			"facing": "west",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "left",
+			"facing": "west",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "left",
+			"facing": "west",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "left",
+			"facing": "west",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "right",
+			"facing": "west",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "right",
+			"facing": "west",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "right",
+			"facing": "west",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "right",
+			"facing": "west",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "none",
+			"facing": "east",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "none",
+			"facing": "east",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "none",
+			"facing": "east",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "none",
+			"facing": "east",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "left",
+			"facing": "east",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "left",
+			"facing": "east",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "left",
+			"facing": "east",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "left",
+			"facing": "east",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "right",
+			"facing": "east",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "right",
+			"facing": "east",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "right",
+			"facing": "east",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "right",
+			"facing": "east",
+			"connected_right": "true",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "none",
+			"facing": "north",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "none",
+			"facing": "north",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "none",
+			"facing": "north",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "none",
+			"facing": "north",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "left",
+			"facing": "north",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "left",
+			"facing": "north",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "left",
+			"facing": "north",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "left",
+			"facing": "north",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "right",
+			"facing": "north",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "right",
+			"facing": "north",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "right",
+			"facing": "north",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "right",
+			"facing": "north",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "none",
+			"facing": "south",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "none",
+			"facing": "south",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "none",
+			"facing": "south",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "none",
+			"facing": "south",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "left",
+			"facing": "south",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "left",
+			"facing": "south",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "left",
+			"facing": "south",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "left",
+			"facing": "south",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "right",
+			"facing": "south",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "right",
+			"facing": "south",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "right",
+			"facing": "south",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "right",
+			"facing": "south",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "none",
+			"facing": "west",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "none",
+			"facing": "west",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "none",
+			"facing": "west",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "none",
+			"facing": "west",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "left",
+			"facing": "west",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "left",
+			"facing": "west",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "left",
+			"facing": "west",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "left",
+			"facing": "west",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "right",
+			"facing": "west",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "right",
+			"facing": "west",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "right",
+			"facing": "west",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "right",
+			"facing": "west",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "none",
+			"facing": "east",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "none",
+			"facing": "east",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "none",
+			"facing": "east",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "none",
+			"facing": "east",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "left",
+			"facing": "east",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "left",
+			"facing": "east",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "left",
+			"facing": "east",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "left",
+			"facing": "east",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "right",
+			"facing": "east",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "right",
+			"facing": "east",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "right",
+			"facing": "east",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "right",
+			"facing": "east",
+			"connected_right": "false",
+			"connected_left": "true"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "none",
+			"facing": "north",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "none",
+			"facing": "north",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "none",
+			"facing": "north",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "none",
+			"facing": "north",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "left",
+			"facing": "north",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "left",
+			"facing": "north",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "left",
+			"facing": "north",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "left",
+			"facing": "north",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "right",
+			"facing": "north",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "right",
+			"facing": "north",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "right",
+			"facing": "north",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "right",
+			"facing": "north",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "none",
+			"facing": "south",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "none",
+			"facing": "south",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "none",
+			"facing": "south",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "none",
+			"facing": "south",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "left",
+			"facing": "south",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "left",
+			"facing": "south",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "left",
+			"facing": "south",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "left",
+			"facing": "south",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "right",
+			"facing": "south",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "right",
+			"facing": "south",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "right",
+			"facing": "south",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "right",
+			"facing": "south",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "none",
+			"facing": "west",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "none",
+			"facing": "west",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "none",
+			"facing": "west",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "none",
+			"facing": "west",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "left",
+			"facing": "west",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "left",
+			"facing": "west",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "left",
+			"facing": "west",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "left",
+			"facing": "west",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "right",
+			"facing": "west",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "right",
+			"facing": "west",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "right",
+			"facing": "west",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "right",
+			"facing": "west",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "none",
+			"facing": "east",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "none",
+			"facing": "east",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "none",
+			"facing": "east",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "none",
+			"facing": "east",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "left",
+			"facing": "east",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "left",
+			"facing": "east",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "left",
+			"facing": "east",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "left",
+			"facing": "east",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "right",
+			"facing": "east",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "right",
+			"facing": "east",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "right",
+			"facing": "east",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "right",
+			"facing": "east",
+			"connected_right": "true",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "none",
+			"facing": "north",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "none",
+			"facing": "north",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "none",
+			"facing": "north",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "left",
+			"facing": "north",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "left",
+			"facing": "north",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "left",
+			"facing": "north",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "left",
+			"facing": "north",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "right",
+			"facing": "north",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "right",
+			"facing": "north",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "right",
+			"facing": "north",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "right",
+			"facing": "north",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "none",
+			"facing": "south",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "none",
+			"facing": "south",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "none",
+			"facing": "south",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "none",
+			"facing": "south",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "left",
+			"facing": "south",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "left",
+			"facing": "south",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "left",
+			"facing": "south",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "left",
+			"facing": "south",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "right",
+			"facing": "south",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "right",
+			"facing": "south",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "right",
+			"facing": "south",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "right",
+			"facing": "south",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "none",
+			"facing": "west",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "none",
+			"facing": "west",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "none",
+			"facing": "west",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "none",
+			"facing": "west",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "left",
+			"facing": "west",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "left",
+			"facing": "west",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "left",
+			"facing": "west",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "left",
+			"facing": "west",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "right",
+			"facing": "west",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "right",
+			"facing": "west",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "right",
+			"facing": "west",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "right",
+			"facing": "west",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "none",
+			"facing": "east",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "none",
+			"facing": "east",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "none",
+			"facing": "east",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "none",
+			"facing": "east",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "left",
+			"facing": "east",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "left",
+			"facing": "east",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "left",
+			"facing": "east",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "left",
+			"facing": "east",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"front": "right",
+			"facing": "east",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"front": "right",
+			"facing": "east",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"front": "right",
+			"facing": "east",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"front": "right",
+			"facing": "east",
+			"connected_right": "false",
+			"connected_left": "false"
+		},
+		"Name": "adorn:red_sofa"
+	}
+]

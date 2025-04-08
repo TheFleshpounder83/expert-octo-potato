@@ -1,0 +1,1784 @@
+{
+  "__comment": [
+    "Mobs will be able to equip items declared here",
+    "The first number is the weight while the second number is the quality",
+    "Weight is the weight of an item. Higher weight means that the item is more likely to get choosen",
+    "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
+  ],
+  "MAINHAND": {
+    "aether:candy_cane_sword": [
+      3793,
+      0.0081
+    ],
+    "aether:flaming_sword": [
+      2931,
+      1.0088911
+    ],
+    "aether:gravitite_axe": [
+      1069,
+      5.022479
+    ],
+    "aether:gravitite_sword": [
+      1131,
+      4.889481
+    ],
+    "aether:hammer_of_kingbdogz": [
+      3384,
+      0.049
+    ],
+    "aether:holy_sword": [
+      2931,
+      1.0088911
+    ],
+    "aether:holystone_axe": [
+      3500,
+      0.0374
+    ],
+    "aether:holystone_sword": [
+      3608,
+      0.026599998
+    ],
+    "aether:lightning_sword": [
+      2931,
+      1.0088911
+    ],
+    "aether:phoenix_bow": [
+      1306,
+      4.508568
+    ],
+    "aether:pig_slayer": [
+      3469,
+      0.040499996
+    ],
+    "aether:skyroot_axe": [
+      3684,
+      0.019
+    ],
+    "aether:skyroot_sword": [
+      3747,
+      0.0127
+    ],
+    "aether:valkyrie_axe": [
+      1069,
+      5.022479
+    ],
+    "aether:valkyrie_lance": [
+      1131,
+      4.889481
+    ],
+    "aether:vampire_blade": [
+      332,
+      6.5723376
+    ],
+    "aether:zanite_axe": [
+      3297,
+      0.51635593
+    ],
+    "aether:zanite_sword": [
+      3384,
+      0.049
+    ],
+    "alexsmobs:skelewag_sword": [
+      3108,
+      0.7804518
+    ],
+    "alexsmobs:tendon_whip": [
+      3405,
+      0.0469
+    ],
+    "knightquest:cleaver_heavy_axe": [
+      637,
+      5.935056
+    ],
+    "knightquest:crimson_sword": [
+      1305,
+      4.5107756
+    ],
+    "knightquest:khopesh_claymore": [
+      627,
+      5.956006
+    ],
+    "knightquest:kukri_dagger": [
+      3469,
+      0.040499996
+    ],
+    "knightquest:nail_glaive": [
+      675,
+      5.855402
+    ],
+    "knightquest:paladin_sword": [
+      117,
+      7.020319
+    ],
+    "knightquest:steel_axe": [
+      3287,
+      0.53247225
+    ],
+    "knightquest:steel_sword": [
+      3260,
+      0.57356006
+    ],
+    "knightquest:uchigatana_katana": [
+      1919,
+      2.3240905
+    ],
+    "knightquest:water_axe": [
+      2352,
+      1.7555794
+    ],
+    "knightquest:water_sword": [
+      2339,
+      1.7725146
+    ],
+    "majruszsdifficulty:enderium_axe": [
+      6,
+      7.2514286
+    ],
+    "majruszsdifficulty:enderium_sword": [
+      53,
+      7.15358
+    ],
+    "majruszsdifficulty:wither_sword": [
+      3172,
+      0.6959233
+    ],
+    "minecraft:bow": [
+      1306,
+      4.508568
+    ],
+    "minecraft:crossbow": [
+      1600,
+      3.826627
+    ],
+    "minecraft:diamond_axe": [
+      1069,
+      5.022479
+    ],
+    "minecraft:diamond_sword": [
+      1131,
+      4.889481
+    ],
+    "minecraft:enchanted_book": [
+      2274,
+      1.8573177
+    ],
+    "minecraft:golden_axe": [
+      3730,
+      0.014399999
+    ],
+    "minecraft:golden_sword": [
+      3793,
+      0.0081
+    ],
+    "minecraft:iron_axe": [
+      3297,
+      0.51635593
+    ],
+    "minecraft:iron_sword": [
+      3384,
+      0.049
+    ],
+    "minecraft:lingering_potion{Potion:\"minecraft:harming\"}": [
+      2374,
+      1.7269388
+    ],
+    "minecraft:netherite_axe": [
+      233,
+      6.778693
+    ],
+    "minecraft:netherite_sword": [
+      303,
+      6.632802
+    ],
+    "minecraft:snowball": [
+      3324,
+      0.46844563
+    ],
+    "minecraft:splash_potion{Potion:\"minecraft:harming\"}": [
+      2374,
+      1.7269388
+    ],
+    "minecraft:stone_axe": [
+      3500,
+      0.0374
+    ],
+    "minecraft:stone_sword": [
+      3608,
+      0.026599998
+    ],
+    "minecraft:tnt": [
+      2174,
+      1.9881918
+    ],
+    "minecraft:trident": [
+      1374,
+      4.357304
+    ],
+    "minecraft:wooden_axe": [
+      3684,
+      0.019
+    ],
+    "minecraft:wooden_sword": [
+      3747,
+      0.0127
+    ],
+    "morevanillatools:bone_axe": [
+      3471,
+      0.040299997
+    ],
+    "morevanillatools:bone_sword": [
+      3531,
+      0.034299996
+    ],
+    "morevanillatools:coal_axe": [
+      3538,
+      0.0336
+    ],
+    "morevanillatools:coal_sword": [
+      3614,
+      0.025999999
+    ],
+    "morevanillatools:copper_axe": [
+      3694,
+      0.018
+    ],
+    "morevanillatools:copper_sword": [
+      3703,
+      0.017099999
+    ],
+    "morevanillatools:emerald_axe": [
+      1732,
+      3.4637072
+    ],
+    "morevanillatools:emerald_sword": [
+      1819,
+      3.1281087
+    ],
+    "morevanillatools:ender_axe": [
+      2707,
+      1.296299
+    ],
+    "morevanillatools:ender_sword": [
+      2698,
+      1.3078723
+    ],
+    "morevanillatools:fiery_axe": [
+      3615,
+      0.025899999
+    ],
+    "morevanillatools:fiery_sword": [
+      3615,
+      0.025899999
+    ],
+    "morevanillatools:glowstone_axe": [
+      3638,
+      0.023599999
+    ],
+    "morevanillatools:glowstone_sword": [
+      3660,
+      0.021399999
+    ],
+    "morevanillatools:lapis_axe": [
+      3428,
+      0.0446
+    ],
+    "morevanillatools:lapis_sword": [
+      3536,
+      0.0338
+    ],
+    "morevanillatools:nether_axe": [
+      3385,
+      0.048899997
+    ],
+    "morevanillatools:nether_sword": [
+      3490,
+      0.038399998
+    ],
+    "morevanillatools:obsidian_axe": [
+      1450,
+      4.184876
+    ],
+    "morevanillatools:obsidian_sword": [
+      1537,
+      3.9810073
+    ],
+    "morevanillatools:paper_axe": [
+      3838,
+      0.0035999997
+    ],
+    "morevanillatools:paper_sword": [
+      3847,
+      0.0026999998
+    ],
+    "morevanillatools:prismarine_axe": [
+      3340,
+      0.4342237
+    ],
+    "morevanillatools:prismarine_sword": [
+      3448,
+      0.0426
+    ],
+    "morevanillatools:quartz_axe": [
+      3557,
+      0.031699996
+    ],
+    "morevanillatools:quartz_sword": [
+      3632,
+      0.024199998
+    ],
+    "morevanillatools:redstone_axe": [
+      3428,
+      0.0446
+    ],
+    "morevanillatools:redstone_sword": [
+      3536,
+      0.0338
+    ],
+    "morevanillatools:slime_axe": [
+      3575,
+      0.0299
+    ],
+    "morevanillatools:slime_sword": [
+      3638,
+      0.023599999
+    ],
+    "mowziesmobs:blowgun": [
+      1474,
+      4.129458
+    ],
+    "mowziesmobs:wrought_axe": [
+      3297,
+      0.51635593
+    ],
+    "refurbished_furniture:knife": [
+      3374,
+      0.049999997
+    ],
+    "refurbished_furniture:spatula": [
+      3412,
+      0.046199996
+    ]
+  },
+  "OFFHAND": {
+    "minecraft:ender_pearl": [
+      675,
+      1.2102311
+    ],
+    "minecraft:flint_and_steel": [
+      647,
+      1.2461817
+    ],
+    "minecraft:lava_bucket": [
+      275,
+      1.7269388
+    ],
+    "minecraft:shield": [
+      353,
+      1.6255897
+    ]
+  },
+  "FEET": {
+    "aether:gravitite_boots": [
+      1262,
+      2.231581
+    ],
+    "aether:neptune_boots": [
+      2092,
+      1.1524966
+    ],
+    "aether:obsidian_boots": [
+      1200,
+      2.3135066
+    ],
+    "aether:phoenix_boots": [
+      1262,
+      2.231581
+    ],
+    "aether:sentry_boots": [
+      2097,
+      1.1460843
+    ],
+    "aether:valkyrie_boots": [
+      1262,
+      2.231581
+    ],
+    "aether:zanite_boots": [
+      2097,
+      1.1460843
+    ],
+    "alexsmobs:flying_fish_boots": [
+      3006,
+      0.014099999
+    ],
+    "alexsmobs:roadrunner_boots": [
+      2444,
+      0.6972618
+    ],
+    "difficultraids:grandmaster_boots": [
+      1546,
+      1.8586241
+    ],
+    "fullturtlearmor:turtle_boots": [
+      2251,
+      0.948558
+    ],
+    "gildedarmor:gilded_enderite_boots": [
+      27,
+      5.689535
+    ],
+    "gildedarmor:gilded_netherite_boots": [
+      1093,
+      3.1228178
+    ],
+    "knightquest:apple_boots": [
+      1147,
+      2.3836782
+    ],
+    "knightquest:bamboo_blue_boots": [
+      1009,
+      3.45113
+    ],
+    "knightquest:bamboo_boots": [
+      1147,
+      2.3836782
+    ],
+    "knightquest:bamboo_green_boots": [
+      1009,
+      3.45113
+    ],
+    "knightquest:bat_boots": [
+      1009,
+      3.45113
+    ],
+    "knightquest:blaze_boots": [
+      1147,
+      2.3836782
+    ],
+    "knightquest:bow_boots": [
+      1147,
+      2.3836782
+    ],
+    "knightquest:conquistador_boots": [
+      1009,
+      3.45113
+    ],
+    "knightquest:creeper_boots": [
+      1147,
+      2.3836782
+    ],
+    "knightquest:deepslate_boots": [
+      1147,
+      2.3836782
+    ],
+    "knightquest:dragon_boots": [
+      1009,
+      3.45113
+    ],
+    "knightquest:enderman_boots": [
+      1009,
+      3.45113
+    ],
+    "knightquest:evoker_boots": [
+      1147,
+      2.3836782
+    ],
+    "knightquest:forze_boots": [
+      1009,
+      3.45113
+    ],
+    "knightquest:hollow_boots": [
+      1009,
+      3.45113
+    ],
+    "knightquest:horn_boots": [
+      1009,
+      3.45113
+    ],
+    "knightquest:husk_boots": [
+      1009,
+      3.45113
+    ],
+    "knightquest:nether_boots": [
+      1009,
+      3.45113
+    ],
+    "knightquest:path_boots": [
+      1147,
+      2.3836782
+    ],
+    "knightquest:phantom_boots": [
+      1009,
+      3.45113
+    ],
+    "knightquest:pirate_boots": [
+      1009,
+      3.45113
+    ],
+    "knightquest:polar_boots": [
+      1147,
+      2.3836782
+    ],
+    "knightquest:sea_boots": [
+      1009,
+      3.45113
+    ],
+    "knightquest:shield_boots": [
+      1009,
+      3.45113
+    ],
+    "knightquest:shinobi_boots": [
+      1147,
+      2.3836782
+    ],
+    "knightquest:silver_boots": [
+      1147,
+      2.3836782
+    ],
+    "knightquest:silverfish_boots": [
+      1009,
+      3.45113
+    ],
+    "knightquest:skeleton_boots": [
+      1147,
+      2.3836782
+    ],
+    "knightquest:skulk_boots": [
+      1009,
+      3.45113
+    ],
+    "knightquest:spider_boots": [
+      1147,
+      2.3836782
+    ],
+    "knightquest:squire_boots": [
+      1009,
+      3.45113
+    ],
+    "knightquest:strawhat_boots": [
+      1147,
+      2.3836782
+    ],
+    "knightquest:veteran_boots": [
+      1009,
+      3.45113
+    ],
+    "knightquest:warlord_boots": [
+      1009,
+      3.45113
+    ],
+    "knightquest:witch_boots": [
+      1147,
+      2.3836782
+    ],
+    "knightquest:wither_boots": [
+      1009,
+      3.45113
+    ],
+    "knightquest:zombie_boots": [
+      1147,
+      2.3836782
+    ],
+    "majruszsdifficulty:enderium_boots": [
+      716,
+      4.200942
+    ],
+    "majruszsdifficulty:tattered_boots": [
+      2841,
+      0.030599998
+    ],
+    "minecraft:chainmail_boots": [
+      2555,
+      0.540316
+    ],
+    "minecraft:diamond_boots": [
+      1639,
+      1.7373508
+    ],
+    "minecraft:golden_boots": [
+      2621,
+      0.4136078
+    ],
+    "minecraft:iron_boots": [
+      2307,
+      0.8764657
+    ],
+    "minecraft:leather_boots": [
+      2903,
+      0.0244
+    ],
+    "minecraft:netherite_boots": [
+      1512,
+      1.9030677
+    ],
+    "morevanillaarmor:bone_boots": [
+      2742,
+      0.040499996
+    ],
+    "morevanillaarmor:coal_boots": [
+      2955,
+      0.019199999
+    ],
+    "morevanillaarmor:copper_boots": [
+      2930,
+      0.021699999
+    ],
+    "morevanillaarmor:emerald_boots": [
+      2060,
+      1.1935471
+    ],
+    "morevanillaarmor:ender_boots": [
+      2441,
+      0.7012731
+    ],
+    "morevanillaarmor:fiery_boots": [
+      2667,
+      0.047999997
+    ],
+    "morevanillaarmor:glowstone_boots": [
+      2827,
+      0.031999998
+    ],
+    "morevanillaarmor:lapis_boots": [
+      2541,
+      0.5616777
+    ],
+    "morevanillaarmor:nether_boots": [
+      2646,
+      0.23071903
+    ],
+    "morevanillaarmor:obsidian_boots": [
+      1118,
+      2.9586682
+    ],
+    "morevanillaarmor:paper_boots": [
+      3039,
+      0.010799999
+    ],
+    "morevanillaarmor:prismarine_boots": [
+      2490,
+      0.634755
+    ],
+    "morevanillaarmor:quartz_boots": [
+      2923,
+      0.0224
+    ],
+    "morevanillaarmor:redstone_boots": [
+      2616,
+      0.42687923
+    ],
+    "morevanillaarmor:slime_boots": [
+      853,
+      3.876444
+    ],
+    "morevanillaarmor:stone_boots": [
+      2940,
+      0.020699998
+    ],
+    "morevanillaarmor:wood_boots": [
+      2810,
+      0.033699997
+    ],
+    "mowziesmobs:geomancer_sandals": [
+      1262,
+      2.231581
+    ],
+    "tconstruct:plate_boots": [
+      2517,
+      0.59678036
+    ],
+    "tconstruct:slime_boots": [
+      2517,
+      0.59678036
+    ],
+    "tconstruct:travelers_boots": [
+      2517,
+      0.59678036
+    ]
+  },
+  "LEGS": {
+    "aether:gravitite_leggings": [
+      1247,
+      2.231581
+    ],
+    "aether:neptune_leggings": [
+      2077,
+      1.1524966
+    ],
+    "aether:obsidian_leggings": [
+      1185,
+      2.3135066
+    ],
+    "aether:phoenix_leggings": [
+      1247,
+      2.231581
+    ],
+    "aether:valkyrie_leggings": [
+      1247,
+      2.231581
+    ],
+    "aether:zanite_leggings": [
+      2082,
+      1.1460843
+    ],
+    "alexsmobs:centipede_leggings": [
+      826,
+      3.9059477
+    ],
+    "alexsmobs:emu_leggings": [
+      2061,
+      1.173019
+    ],
+    "difficultraids:grandmaster_leggings": [
+      1556,
+      1.8259813
+    ],
+    "fullturtlearmor:turtle_leggings": [
+      2236,
+      0.948558
+    ],
+    "gildedarmor:gilded_enderite_leggings": [
+      27,
+      5.657996
+    ],
+    "gildedarmor:gilded_netherite_leggings": [
+      1078,
+      3.1228178
+    ],
+    "knightquest:apple_leggings": [
+      1132,
+      2.3836782
+    ],
+    "knightquest:bamboo_blue_leggings": [
+      994,
+      3.45113
+    ],
+    "knightquest:bamboo_green_leggings": [
+      994,
+      3.45113
+    ],
+    "knightquest:bamboo_leggings": [
+      1132,
+      2.3836782
+    ],
+    "knightquest:bat_leggings": [
+      994,
+      3.45113
+    ],
+    "knightquest:blaze_leggings": [
+      1132,
+      2.3836782
+    ],
+    "knightquest:bow_leggings": [
+      1132,
+      2.3836782
+    ],
+    "knightquest:conquistador_leggings": [
+      994,
+      3.45113
+    ],
+    "knightquest:creeper_leggings": [
+      1132,
+      2.3836782
+    ],
+    "knightquest:deepslate_leggings": [
+      1132,
+      2.3836782
+    ],
+    "knightquest:dragon_leggings": [
+      994,
+      3.45113
+    ],
+    "knightquest:enderman_leggings": [
+      994,
+      3.45113
+    ],
+    "knightquest:evoker_leggings": [
+      1132,
+      2.3836782
+    ],
+    "knightquest:forze_leggings": [
+      994,
+      3.45113
+    ],
+    "knightquest:hollow_leggings": [
+      994,
+      3.45113
+    ],
+    "knightquest:horn_leggings": [
+      994,
+      3.45113
+    ],
+    "knightquest:husk_leggings": [
+      994,
+      3.45113
+    ],
+    "knightquest:nether_leggings": [
+      994,
+      3.45113
+    ],
+    "knightquest:path_leggings": [
+      1132,
+      2.3836782
+    ],
+    "knightquest:phantom_leggings": [
+      994,
+      3.45113
+    ],
+    "knightquest:pirate_leggings": [
+      994,
+      3.45113
+    ],
+    "knightquest:polar_leggings": [
+      1132,
+      2.3836782
+    ],
+    "knightquest:sea_leggings": [
+      994,
+      3.45113
+    ],
+    "knightquest:shield_leggings": [
+      994,
+      3.45113
+    ],
+    "knightquest:shinobi_leggings": [
+      1132,
+      2.3836782
+    ],
+    "knightquest:silver_leggings": [
+      1132,
+      2.3836782
+    ],
+    "knightquest:silverfish_leggings": [
+      994,
+      3.45113
+    ],
+    "knightquest:skeleton_leggings": [
+      1132,
+      2.3836782
+    ],
+    "knightquest:skulk_leggings": [
+      994,
+      3.45113
+    ],
+    "knightquest:spider_leggings": [
+      1132,
+      2.3836782
+    ],
+    "knightquest:squire_leggings": [
+      994,
+      3.45113
+    ],
+    "knightquest:strawhat_leggings": [
+      1132,
+      2.3836782
+    ],
+    "knightquest:tunic_blue_leggings": [
+      2148,
+      1.061466
+    ],
+    "knightquest:tunic_green_leggings": [
+      2148,
+      1.061466
+    ],
+    "knightquest:tunic_red_leggings": [
+      2148,
+      1.061466
+    ],
+    "knightquest:tunic_sea_leggings": [
+      2148,
+      1.061466
+    ],
+    "knightquest:tunic_yellow_leggings": [
+      2148,
+      1.061466
+    ],
+    "knightquest:veteran_leggings": [
+      994,
+      3.45113
+    ],
+    "knightquest:warlord_leggings": [
+      994,
+      3.45113
+    ],
+    "knightquest:witch_leggings": [
+      1132,
+      2.3836782
+    ],
+    "knightquest:wither_leggings": [
+      994,
+      3.45113
+    ],
+    "knightquest:zombie_leggings": [
+      1132,
+      2.3836782
+    ],
+    "majruszsdifficulty:enderium_leggings": [
+      701,
+      4.200942
+    ],
+    "majruszsdifficulty:tattered_leggings": [
+      2826,
+      0.030599998
+    ],
+    "minecraft:chainmail_leggings": [
+      2540,
+      0.540316
+    ],
+    "minecraft:diamond_leggings": [
+      1624,
+      1.7373508
+    ],
+    "minecraft:golden_leggings": [
+      2606,
+      0.4136078
+    ],
+    "minecraft:iron_leggings": [
+      2292,
+      0.8764657
+    ],
+    "minecraft:leather_leggings": [
+      2888,
+      0.0244
+    ],
+    "minecraft:netherite_leggings": [
+      1497,
+      1.9030677
+    ],
+    "morevanillaarmor:bone_leggings": [
+      2727,
+      0.040499996
+    ],
+    "morevanillaarmor:coal_leggings": [
+      2940,
+      0.019199999
+    ],
+    "morevanillaarmor:copper_leggings": [
+      2915,
+      0.021699999
+    ],
+    "morevanillaarmor:emerald_leggings": [
+      2045,
+      1.1935471
+    ],
+    "morevanillaarmor:ender_leggings": [
+      2426,
+      0.7012731
+    ],
+    "morevanillaarmor:fiery_leggings": [
+      2652,
+      0.047999997
+    ],
+    "morevanillaarmor:glowstone_leggings": [
+      2812,
+      0.031999998
+    ],
+    "morevanillaarmor:lapis_leggings": [
+      2526,
+      0.5616777
+    ],
+    "morevanillaarmor:nether_leggings": [
+      2631,
+      0.23071903
+    ],
+    "morevanillaarmor:obsidian_leggings": [
+      1103,
+      2.9586682
+    ],
+    "morevanillaarmor:paper_leggings": [
+      3024,
+      0.010799999
+    ],
+    "morevanillaarmor:prismarine_leggings": [
+      2475,
+      0.634755
+    ],
+    "morevanillaarmor:quartz_leggings": [
+      2908,
+      0.0224
+    ],
+    "morevanillaarmor:redstone_leggings": [
+      2601,
+      0.42687923
+    ],
+    "morevanillaarmor:slime_leggings": [
+      838,
+      3.876444
+    ],
+    "morevanillaarmor:stone_leggings": [
+      2925,
+      0.020699998
+    ],
+    "morevanillaarmor:wood_leggings": [
+      2795,
+      0.033699997
+    ],
+    "mowziesmobs:geomancer_belt": [
+      1247,
+      2.231581
+    ],
+    "tconstruct:plate_leggings": [
+      2502,
+      0.59678036
+    ],
+    "tconstruct:slime_leggings": [
+      2502,
+      0.59678036
+    ],
+    "tconstruct:travelers_leggings": [
+      2502,
+      0.59678036
+    ]
+  },
+  "CHEST": {
+    "aether:gravitite_chestplate": [
+      1272,
+      2.231581
+    ],
+    "aether:neptune_chestplate": [
+      2102,
+      1.1524966
+    ],
+    "aether:obsidian_chestplate": [
+      1210,
+      2.3135066
+    ],
+    "aether:phoenix_chestplate": [
+      1272,
+      2.231581
+    ],
+    "aether:valkyrie_chestplate": [
+      1272,
+      2.231581
+    ],
+    "aether:zanite_chestplate": [
+      2107,
+      1.1460843
+    ],
+    "alexsmobs:crocodile_chestplate": [
+      1875,
+      1.4444326
+    ],
+    "alexsmobs:rocky_chestplate": [
+      1954,
+      1.3426114
+    ],
+    "alexsmobs:tarantula_hawk_elytra": [
+      2302,
+      0.89580816
+    ],
+    "alexsmobs:unsettling_kimono": [
+      2525,
+      0.59963983
+    ],
+    "difficultraids:grandmaster_chestplate": [
+      1590,
+      1.8142376
+    ],
+    "fullturtlearmor:turtle_chestplate": [
+      2261,
+      0.948558
+    ],
+    "gildedarmor:gilded_enderite_chestplate": [
+      27,
+      5.7105536
+    ],
+    "gildedarmor:gilded_netherite_chestplate": [
+      1103,
+      3.1228178
+    ],
+    "knightquest:apple_chestplate": [
+      1157,
+      2.3836782
+    ],
+    "knightquest:bamboo_blue_chestplate": [
+      1019,
+      3.45113
+    ],
+    "knightquest:bamboo_chestplate": [
+      1157,
+      2.3836782
+    ],
+    "knightquest:bamboo_green_chestplate": [
+      1019,
+      3.45113
+    ],
+    "knightquest:bat_chestplate": [
+      1019,
+      3.45113
+    ],
+    "knightquest:blaze_chestplate": [
+      1157,
+      2.3836782
+    ],
+    "knightquest:bow_chestplate": [
+      1157,
+      2.3836782
+    ],
+    "knightquest:conquistador_chestplate": [
+      1019,
+      3.45113
+    ],
+    "knightquest:creeper_chestplate": [
+      1157,
+      2.3836782
+    ],
+    "knightquest:deepslate_chestplate": [
+      1157,
+      2.3836782
+    ],
+    "knightquest:dragon_chestplate": [
+      1019,
+      3.45113
+    ],
+    "knightquest:enderman_chestplate": [
+      1019,
+      3.45113
+    ],
+    "knightquest:evoker_chestplate": [
+      1157,
+      2.3836782
+    ],
+    "knightquest:forze_chestplate": [
+      1019,
+      3.45113
+    ],
+    "knightquest:hollow_chestplate": [
+      1019,
+      3.45113
+    ],
+    "knightquest:horn_chestplate": [
+      1019,
+      3.45113
+    ],
+    "knightquest:husk_chestplate": [
+      1019,
+      3.45113
+    ],
+    "knightquest:nether_chestplate": [
+      1019,
+      3.45113
+    ],
+    "knightquest:path_chestplate": [
+      1157,
+      2.3836782
+    ],
+    "knightquest:phantom_chestplate": [
+      1019,
+      3.45113
+    ],
+    "knightquest:pirate_chestplate": [
+      1019,
+      3.45113
+    ],
+    "knightquest:polar_chestplate": [
+      1157,
+      2.3836782
+    ],
+    "knightquest:sea_chestplate": [
+      1019,
+      3.45113
+    ],
+    "knightquest:shield_chestplate": [
+      1019,
+      3.45113
+    ],
+    "knightquest:shinobi_chestplate": [
+      1157,
+      2.3836782
+    ],
+    "knightquest:silver_chestplate": [
+      1157,
+      2.3836782
+    ],
+    "knightquest:silverfish_chestplate": [
+      1019,
+      3.45113
+    ],
+    "knightquest:skeleton_chestplate": [
+      1157,
+      2.3836782
+    ],
+    "knightquest:skulk_chestplate": [
+      1019,
+      3.45113
+    ],
+    "knightquest:spider_chestplate": [
+      1157,
+      2.3836782
+    ],
+    "knightquest:squire_chestplate": [
+      1019,
+      3.45113
+    ],
+    "knightquest:strawhat_chestplate": [
+      1157,
+      2.3836782
+    ],
+    "knightquest:veteran_chestplate": [
+      1019,
+      3.45113
+    ],
+    "knightquest:warlord_chestplate": [
+      1019,
+      3.45113
+    ],
+    "knightquest:witch_chestplate": [
+      1157,
+      2.3836782
+    ],
+    "knightquest:wither_chestplate": [
+      1019,
+      3.45113
+    ],
+    "knightquest:zombie_chestplate": [
+      1157,
+      2.3836782
+    ],
+    "majruszsdifficulty:enderium_chestplate": [
+      726,
+      4.200942
+    ],
+    "majruszsdifficulty:tattered_chestplate": [
+      2851,
+      0.030599998
+    ],
+    "minecraft:chainmail_chestplate": [
+      2565,
+      0.540316
+    ],
+    "minecraft:diamond_chestplate": [
+      1649,
+      1.7373508
+    ],
+    "minecraft:golden_chestplate": [
+      2631,
+      0.4136078
+    ],
+    "minecraft:iron_chestplate": [
+      2317,
+      0.8764657
+    ],
+    "minecraft:leather_chestplate": [
+      2913,
+      0.0244
+    ],
+    "minecraft:netherite_chestplate": [
+      1522,
+      1.9030677
+    ],
+    "morevanillaarmor:bone_chestplate": [
+      2752,
+      0.040499996
+    ],
+    "morevanillaarmor:coal_chestplate": [
+      2965,
+      0.019199999
+    ],
+    "morevanillaarmor:copper_chestplate": [
+      2940,
+      0.021699999
+    ],
+    "morevanillaarmor:emerald_chestplate": [
+      2070,
+      1.1935471
+    ],
+    "morevanillaarmor:ender_chestplate": [
+      2451,
+      0.7012731
+    ],
+    "morevanillaarmor:fiery_chestplate": [
+      2677,
+      0.047999997
+    ],
+    "morevanillaarmor:glowstone_chestplate": [
+      2837,
+      0.031999998
+    ],
+    "morevanillaarmor:lapis_chestplate": [
+      2551,
+      0.5616777
+    ],
+    "morevanillaarmor:nether_chestplate": [
+      2656,
+      0.23071903
+    ],
+    "morevanillaarmor:obsidian_chestplate": [
+      1128,
+      2.9586682
+    ],
+    "morevanillaarmor:paper_chestplate": [
+      3049,
+      0.010799999
+    ],
+    "morevanillaarmor:prismarine_chestplate": [
+      2500,
+      0.634755
+    ],
+    "morevanillaarmor:quartz_chestplate": [
+      2933,
+      0.0224
+    ],
+    "morevanillaarmor:redstone_chestplate": [
+      2626,
+      0.42687923
+    ],
+    "morevanillaarmor:slime_chestplate": [
+      863,
+      3.876444
+    ],
+    "morevanillaarmor:stone_chestplate": [
+      2950,
+      0.020699998
+    ],
+    "morevanillaarmor:wood_chestplate": [
+      2820,
+      0.033699997
+    ],
+    "mowziesmobs:geomancer_robe": [
+      1272,
+      2.231581
+    ],
+    "tconstruct:plate_chestplate": [
+      2527,
+      0.59678036
+    ],
+    "tconstruct:slime_chestplate": [
+      2527,
+      0.59678036
+    ],
+    "tconstruct:travelers_chestplate": [
+      2527,
+      0.59678036
+    ]
+  },
+  "HEAD": {
+    "aether:gravitite_helmet": [
+      1266,
+      2.231581
+    ],
+    "aether:neptune_helmet": [
+      2096,
+      1.1524966
+    ],
+    "aether:obsidian_helmet": [
+      1204,
+      2.3135066
+    ],
+    "aether:phoenix_helmet": [
+      1266,
+      2.231581
+    ],
+    "aether:valkyrie_helmet": [
+      1266,
+      2.231581
+    ],
+    "aether:zanite_helmet": [
+      2101,
+      1.1460843
+    ],
+    "alexsmobs:fedora": [
+      2712,
+      0.043899998
+    ],
+    "alexsmobs:frontier_cap": [
+      2406,
+      0.75292885
+    ],
+    "alexsmobs:froststalker_helmet": [
+      2499,
+      0.62781405
+    ],
+    "alexsmobs:moose_headgear": [
+      2397,
+      0.7647448
+    ],
+    "alexsmobs:novelty_hat": [
+      2712,
+      0.043899998
+    ],
+    "alexsmobs:sombrero": [
+      2683,
+      0.0468
+    ],
+    "alexsmobs:spiked_turtle_shell": [
+      2147,
+      1.0871058
+    ],
+    "difficultraids:grandmaster_helmet": [
+      1516,
+      1.9030677
+    ],
+    "gildedarmor:gilded_enderite_helmet": [
+      11,
+      5.731565
+    ],
+    "gildedarmor:gilded_netherite_helmet": [
+      1097,
+      3.1228178
+    ],
+    "knightquest:apple_helmet": [
+      1151,
+      2.3836782
+    ],
+    "knightquest:bamboo_blue_helmet": [
+      1013,
+      3.45113
+    ],
+    "knightquest:bamboo_green_helmet": [
+      1013,
+      3.45113
+    ],
+    "knightquest:bamboo_helmet": [
+      1151,
+      2.3836782
+    ],
+    "knightquest:bat_helmet": [
+      1013,
+      3.45113
+    ],
+    "knightquest:blaze_helmet": [
+      1151,
+      2.3836782
+    ],
+    "knightquest:bow_helmet": [
+      1151,
+      2.3836782
+    ],
+    "knightquest:chainmail_helmet": [
+      2167,
+      1.061466
+    ],
+    "knightquest:chainmail_helmet2": [
+      2167,
+      1.061466
+    ],
+    "knightquest:conquistador2_helmet": [
+      1013,
+      3.45113
+    ],
+    "knightquest:conquistador3_helmet": [
+      1013,
+      3.45113
+    ],
+    "knightquest:conquistador_helmet": [
+      1013,
+      3.45113
+    ],
+    "knightquest:creeper_helmet": [
+      1151,
+      2.3836782
+    ],
+    "knightquest:deepslate_helmet": [
+      1151,
+      2.3836782
+    ],
+    "knightquest:dragon_helmet": [
+      1013,
+      3.45113
+    ],
+    "knightquest:enderman_helmet": [
+      1013,
+      3.45113
+    ],
+    "knightquest:evoker_helmet": [
+      1151,
+      2.3836782
+    ],
+    "knightquest:forze_helmet": [
+      1013,
+      3.45113
+    ],
+    "knightquest:hollow_helmet": [
+      1013,
+      3.45113
+    ],
+    "knightquest:horn_helmet": [
+      1013,
+      3.45113
+    ],
+    "knightquest:husk_helmet": [
+      1013,
+      3.45113
+    ],
+    "knightquest:husk_helmet2": [
+      1013,
+      3.45113
+    ],
+    "knightquest:husk_helmet3": [
+      1013,
+      3.45113
+    ],
+    "knightquest:nether_helmet": [
+      1013,
+      3.45113
+    ],
+    "knightquest:path_helmet": [
+      1151,
+      2.3836782
+    ],
+    "knightquest:phantom_helmet": [
+      1013,
+      3.45113
+    ],
+    "knightquest:pirate2_helmet": [
+      1013,
+      3.45113
+    ],
+    "knightquest:pirate3_helmet": [
+      1013,
+      3.45113
+    ],
+    "knightquest:pirate_helmet": [
+      1013,
+      3.45113
+    ],
+    "knightquest:polar_helmet": [
+      1151,
+      2.3836782
+    ],
+    "knightquest:sea_helmet": [
+      1013,
+      3.45113
+    ],
+    "knightquest:shield_helmet": [
+      1013,
+      3.45113
+    ],
+    "knightquest:shinobi_helmet": [
+      1151,
+      2.3836782
+    ],
+    "knightquest:silver_helmet": [
+      1151,
+      2.3836782
+    ],
+    "knightquest:silverfish_helmet": [
+      1013,
+      3.45113
+    ],
+    "knightquest:skeleton_helmet": [
+      1151,
+      2.3836782
+    ],
+    "knightquest:skulk2_helmet": [
+      1013,
+      3.45113
+    ],
+    "knightquest:skulk3_helmet": [
+      1013,
+      3.45113
+    ],
+    "knightquest:skulk4_helmet": [
+      1013,
+      3.45113
+    ],
+    "knightquest:skulk_helmet": [
+      1013,
+      3.45113
+    ],
+    "knightquest:spider_helmet": [
+      1151,
+      2.3836782
+    ],
+    "knightquest:squire_helmet": [
+      1013,
+      3.45113
+    ],
+    "knightquest:strawhat_helmet": [
+      1151,
+      2.3836782
+    ],
+    "knightquest:tengu_helmet": [
+      1013,
+      3.45113
+    ],
+    "knightquest:veteran_helmet": [
+      1013,
+      3.45113
+    ],
+    "knightquest:warlord_helmet": [
+      1013,
+      3.45113
+    ],
+    "knightquest:witch_helmet": [
+      1151,
+      2.3836782
+    ],
+    "knightquest:wither_helmet": [
+      1013,
+      3.45113
+    ],
+    "knightquest:zombie_helmet": [
+      1151,
+      2.3836782
+    ],
+    "knightquest:zombie_helmet2": [
+      1151,
+      2.3836782
+    ],
+    "majruszsdifficulty:enderium_helmet": [
+      720,
+      4.200942
+    ],
+    "majruszsdifficulty:tattered_helmet": [
+      2845,
+      0.030599998
+    ],
+    "minecraft:chainmail_helmet": [
+      2559,
+      0.540316
+    ],
+    "minecraft:diamond_helmet": [
+      1643,
+      1.7373508
+    ],
+    "minecraft:golden_helmet": [
+      2625,
+      0.4136078
+    ],
+    "minecraft:iron_helmet": [
+      2311,
+      0.8764657
+    ],
+    "minecraft:leather_helmet": [
+      2907,
+      0.0244
+    ],
+    "minecraft:netherite_helmet": [
+      1516,
+      1.9030677
+    ],
+    "minecraft:turtle_helmet": [
+      2255,
+      0.948558
+    ],
+    "morevanillaarmor:bone_helmet": [
+      2746,
+      0.040499996
+    ],
+    "morevanillaarmor:coal_helmet": [
+      2959,
+      0.019199999
+    ],
+    "morevanillaarmor:copper_helmet": [
+      2934,
+      0.021699999
+    ],
+    "morevanillaarmor:emerald_helmet": [
+      2064,
+      1.1935471
+    ],
+    "morevanillaarmor:ender_helmet": [
+      2445,
+      0.7012731
+    ],
+    "morevanillaarmor:fiery_helmet": [
+      2671,
+      0.047999997
+    ],
+    "morevanillaarmor:glowstone_helmet": [
+      2831,
+      0.031999998
+    ],
+    "morevanillaarmor:lapis_helmet": [
+      2545,
+      0.5616777
+    ],
+    "morevanillaarmor:nether_helmet": [
+      2650,
+      0.23071903
+    ],
+    "morevanillaarmor:obsidian_helmet": [
+      1122,
+      2.9586682
+    ],
+    "morevanillaarmor:paper_helmet": [
+      3043,
+      0.010799999
+    ],
+    "morevanillaarmor:prismarine_helmet": [
+      2494,
+      0.634755
+    ],
+    "morevanillaarmor:quartz_helmet": [
+      2927,
+      0.0224
+    ],
+    "morevanillaarmor:redstone_helmet": [
+      2620,
+      0.42687923
+    ],
+    "morevanillaarmor:slime_helmet": [
+      857,
+      3.876444
+    ],
+    "morevanillaarmor:stone_helmet": [
+      2944,
+      0.020699998
+    ],
+    "morevanillaarmor:wood_helmet": [
+      2814,
+      0.033699997
+    ],
+    "mowziesmobs:geomancer_beads": [
+      1266,
+      2.231581
+    ],
+    "mowziesmobs:sol_visage": [
+      2721,
+      0.042999998
+    ],
+    "mowziesmobs:umvuthana_mask_bliss": [
+      2995,
+      0.015599999
+    ],
+    "mowziesmobs:umvuthana_mask_faith": [
+      2995,
+      0.015599999
+    ],
+    "mowziesmobs:umvuthana_mask_fear": [
+      2995,
+      0.015599999
+    ],
+    "mowziesmobs:umvuthana_mask_fury": [
+      2995,
+      0.015599999
+    ],
+    "mowziesmobs:umvuthana_mask_misery": [
+      2995,
+      0.015599999
+    ],
+    "mowziesmobs:umvuthana_mask_rage": [
+      2995,
+      0.015599999
+    ],
+    "mowziesmobs:wrought_helmet": [
+      2725,
+      0.0426
+    ],
+    "spelunkers_charm:candle_helmet": [
+      3105,
+      0.0045999996
+    ],
+    "spelunkers_charm:candle_on_helmet": [
+      3105,
+      0.0045999996
+    ],
+    "spelunkers_charm:mining_helmet": [
+      2970,
+      0.018099999
+    ],
+    "tconstruct:plate_helmet": [
+      2521,
+      0.59678036
+    ],
+    "tconstruct:slime_helmet": [
+      2521,
+      0.59678036
+    ],
+    "tconstruct:travelers_helmet": [
+      2521,
+      0.59678036
+    ]
+  }
+}

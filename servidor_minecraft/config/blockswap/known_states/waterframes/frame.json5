@@ -1,0 +1,3171 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "north",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "north",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "north",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "north",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "north",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "north",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "north",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "east",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "east",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "east",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "east",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "east",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "east",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "east",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "east",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "south",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "south",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "south",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "south",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "south",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "south",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "south",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "south",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "west",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "west",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "west",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "west",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "west",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "west",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "west",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "west",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "up",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "up",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "up",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "up",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "up",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "up",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "up",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "up",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "down",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "down",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "down",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "down",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "down",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "down",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "down",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "down",
+			"attached_face": "north"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "north",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "north",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "north",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "north",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "north",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "north",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "north",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "north",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "east",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "east",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "east",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "east",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "east",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "east",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "east",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "east",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "south",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "south",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "south",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "south",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "south",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "south",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "south",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "south",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "west",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "west",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "west",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "west",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "west",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "west",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "west",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "west",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "up",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "up",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "up",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "up",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "up",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "up",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "up",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "up",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "down",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "down",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "down",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "down",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "down",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "down",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "down",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "down",
+			"attached_face": "east"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "north",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "north",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "north",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "north",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "north",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "north",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "north",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "north",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "east",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "east",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "east",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "east",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "east",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "east",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "east",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "east",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "south",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "south",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "south",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "south",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "south",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "south",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "south",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "south",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "west",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "west",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "west",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "west",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "west",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "west",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "west",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "west",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "up",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "up",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "up",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "up",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "up",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "up",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "up",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "up",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "down",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "down",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "down",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "down",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "down",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "down",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "down",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "down",
+			"attached_face": "south"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "north",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "north",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "north",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "north",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "north",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "north",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "north",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "north",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "east",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "east",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "east",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "east",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "east",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "east",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "east",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "east",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "south",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "south",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "south",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "south",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "south",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "south",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "south",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "south",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "west",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "west",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "west",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "west",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "west",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "west",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "west",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "west",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "up",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "up",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "up",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "up",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "up",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "up",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "up",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "up",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "down",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "down",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "down",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "down",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "down",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "down",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "down",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "down",
+			"attached_face": "west"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "north",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "north",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "north",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "north",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "north",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "north",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "north",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "north",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "east",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "east",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "east",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "east",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "east",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "east",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "east",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "east",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "south",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "south",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "south",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "south",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "south",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "south",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "south",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "south",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "west",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "west",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "west",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "west",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "west",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "west",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "west",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "west",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "up",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "up",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "up",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "up",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "up",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "up",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "up",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "up",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "down",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "down",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "down",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "down",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "down",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "down",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "down",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "down",
+			"attached_face": "up"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "north",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "north",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "north",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "north",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "north",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "north",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "north",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "north",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "east",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "east",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "east",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "east",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "east",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "east",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "east",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "east",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "south",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "south",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "south",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "south",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "south",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "south",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "south",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "south",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "west",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "west",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "west",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "west",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "west",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "west",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "west",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "west",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "up",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "up",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "up",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "up",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "up",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "up",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "up",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "up",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "true",
+			"facing": "down",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "true",
+			"facing": "down",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "true",
+			"facing": "down",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "true",
+			"facing": "down",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"frame": "false",
+			"facing": "down",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"frame": "false",
+			"facing": "down",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"frame": "false",
+			"facing": "down",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"frame": "false",
+			"facing": "down",
+			"attached_face": "down"
+		},
+		"Name": "waterframes:frame"
+	}
+]

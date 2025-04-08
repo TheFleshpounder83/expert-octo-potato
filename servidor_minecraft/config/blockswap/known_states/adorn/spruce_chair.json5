@@ -1,0 +1,5987 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "white"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "orange"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "magenta"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "light_blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "yellow"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "lime"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "pink"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "light_gray"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "cyan"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "purple"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "blue"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "brown"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "green"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "red"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "black"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "none"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "none"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "none"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "north",
+			"carpet": "none"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "none"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "none"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "north",
+			"carpet": "none"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "none"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "none"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "none"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "south",
+			"carpet": "none"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "none"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "none"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "none"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "south",
+			"carpet": "none"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "none"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "none"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "none"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "west",
+			"carpet": "none"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "none"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "none"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "none"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "west",
+			"carpet": "none"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "none"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "none"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "none"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "upper",
+			"facing": "east",
+			"carpet": "none"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "none"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "true",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "none"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "none"
+		},
+		"Name": "adorn:spruce_chair"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"occupied": "false",
+			"half": "lower",
+			"facing": "east",
+			"carpet": "none"
+		},
+		"Name": "adorn:spruce_chair"
+	}
+]

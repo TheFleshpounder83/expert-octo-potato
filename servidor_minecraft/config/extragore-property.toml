@@ -1,0 +1,309 @@
+# ExtraGore Particle Group Configuration
+# ------------------------------------------------------
+# This file enables the creation of custom blood particle properties for various entities.
+# Begin by uniquely naming each property group to effectively manage different settings.
+
+# Particle Behavior Options:
+# - Bounce: The particle will bounce off surfaces like a solid object.
+# - Stick: The particle will stick to walls and other surfaces.
+# - Magic: Some particles will fall to the ground while the majority will fly up to the sky.
+# - None: The particle won't have any special effects.
+
+# Particle Weight Options:
+# - Heavy: The particle will sink to the bottom when it's underwater.
+# - Light: The particle will float up to the top of the water.
+
+# Particle State Options:
+# - Liquid: The particle will get larger during its lifetime.
+# - Solid: The particle will remain the same size all the time.
+
+# Color Settings:
+# Set an RGB color value to visually distinguish particles for various entities.
+
+# How to Use:
+# 1. Define a group with a name, including behavior, weight, state, color and entity values.
+# 2. Example:
+#    ["Color Group Name"]
+#    behavior = Choose from "Stuck", "Bounce" or "None"
+#    weight = Choose from "Heavy" or "Light"
+#    state = Choose from "Liquid" or "Solid"
+#    color = "R,G,B"
+#    entities = ["entityID1", "entityID2"]
+# 3. You can modify or delete any predefined groups, except for the red group. The red group is non editable and serves only to show you unused entities which are compatible with different color groups.
+# 4. Add your custom color groups under an already predefined group, except for the red one.
+# 5. Ensure each color group has a unique name and is properly structured.
+
+# Note: Incorrectly formatted lines or unrecognized entity IDs will be ignored.
+# ------------------------------------------------------
+
+["Violet Group"]
+behavior = "Magic"
+weight = "Light"
+state = "Liquid"
+color = "128,0,128"
+entities = ["minecraft:enderman", "minecraft:endermite", "minecraft:phantom", "minecraft:shulker", "minecraft:silverfish", "minecraft:warden", "minecraft:ender_dragon"]
+
+["White Group"]
+behavior = "Bounce"
+weight = "Heavy"
+state = "Solid"
+color = "255,255,255"
+entities = ["minecraft:skeleton", "minecraft:ghast", "minecraft:iron_golem", "minecraft:skeleton_horse", "minecraft:snow_golem", "minecraft:stray", "minecraft:vex", "minecraft:wither_skeleton", "minecraft:allay", "minecraft:wither"]
+
+["Green Group"]
+behavior = "Stuck"
+weight = "Light"
+state = "Liquid"
+color = "0,255,0"
+entities = ["minecraft:cave_spider", "minecraft:creeper", "minecraft:slime", "minecraft:spider", "minecraft:witch"]
+
+["Yellow Group"]
+behavior = "Bounce"
+weight = "Heavy"
+state = "Solid"
+color = "255,255,0"
+entities = ["minecraft:blaze", "minecraft:magma_cube", "minecraft:strider"]
+
+["Blue Group"]
+behavior = "None"
+weight = "Light"
+state = "Liquid"
+color = "0,0,255"
+entities = ["minecraft:squid", "minecraft:elder_guardian", "minecraft:guardian", "minecraft:glow_squid"]
+
+# Auto generated red color group - do not edit. Use this as reference for unused entity IDs.
+"255,0,0" = [
+    "alexsmobs:snow_leopard",
+    "alexsmobs:seal",
+    "alexsmobs:roadrunner",
+    "alexsmobs:laviathan",
+    "minecraft:trader_llama",
+    "alexsmobs:endergrade",
+    "minecraft:horse",
+    "aether:sheepuff",
+    "minecraft:llama",
+    "alexsmobs:maned_wolf",
+    "biomeswevegone:man_o_war",
+    "alexsmobs:skreecher",
+    "minecraft:tadpole",
+    "minecraft:dolphin",
+    "alexsmobs:gelada_monkey",
+    "alexsmobs:hammerhead_shark",
+    "alexsmobs:dropbear",
+    "alexsmobs:tiger",
+    "alexsmobs:grizzly_bear",
+    "alexsmobs:murmur_head",
+    "aether:valkyrie_queen",
+    "minecraft:bee",
+    "alexsmobs:devils_hole_pupfish",
+    "majruszsdifficulty:cerberus",
+    "minecraft:illusioner",
+    "difficultraids:xydrax_elite",
+    "minecraft:mooshroom",
+    "alexsmobs:bison",
+    "mowziesmobs:foliaath",
+    "knightquest:samhain",
+    "mowziesmobs:frostmaw",
+    "minecraft:drowned",
+    "minecraft:axolotl",
+    "alexsmobs:gorilla",
+    "alexsmobs:tusklin",
+    "alexsmobs:cosmic_cod",
+    "alexsmobs:underminer",
+    "minecraft:wandering_trader",
+    "aether:flying_cow",
+    "biomeswevegone:oddion",
+    "alexsmobs:kangaroo",
+    "difficultraids:voldon_elite",
+    "creeperoverhaul:spruce_creeper",
+    "knightquest:ratman",
+    "raided:incinerator",
+    "knightquest:bad_patch",
+    "alexsmobs:hummingbird",
+    "knightquest:netherman",
+    "knightquest:gremlin",
+    "mowziesmobs:umvuthana_raptor",
+    "difficultraids:tank_illager",
+    "majruszsdifficulty:creeperling",
+    "alexsmobs:crow",
+    "alexsmobs:guster",
+    "minecraft:pufferfish",
+    "aether:aerbunny",
+    "minecraft:fox",
+    "knightquest:lizzy",
+    "biomeswevegone:pumpkin_warden",
+    "mowziesmobs:umvuthana_crane",
+    "alexsmobs:warped_toad",
+    "minecraft:chicken",
+    "alexsmobs:giant_squid",
+    "minecraft:zombie",
+    "alexsmobs:emu",
+    "alexsmobs:cockroach",
+    "creeperoverhaul:savannah_creeper",
+    "difficultraids:nuaos_elite",
+    "alexsmobs:flutter",
+    "minecraft:hoglin",
+    "aether:sentry",
+    "alexsmobs:capuchin_monkey",
+    "tconstruct:terracube",
+    "minecraft:polar_bear",
+    "minecraft:zombified_piglin",
+    "minecraft:turtle",
+    "minecraft:sheep",
+    "alexsmobs:rattlesnake",
+    "majruszsdifficulty:giant",
+    "difficultraids:frost_illager",
+    "knightquest:momma_lizzy",
+    "knightquest:eldbomb",
+    "knightquest:eldknight",
+    "alexsmobs:bone_serpent_part",
+    "difficultraids:electro_illager",
+    "alexsmobs:raccoon",
+    "minecraft:ravager",
+    "alexsmobs:bone_serpent",
+    "alexsmobs:potoo",
+    "alexsmobs:fly",
+    "alexsmobs:straddler",
+    "alexsmobs:sea_bear",
+    "aether:fire_minion",
+    "alexsmobs:mudskipper",
+    "mowziesmobs:umvuthana_follower_raptor",
+    "alexsmobs:sugar_glider",
+    "knightquest:ghosty",
+    "alexsmobs:crimson_mosquito",
+    "creeperoverhaul:beach_creeper",
+    "aether:sun_spirit",
+    "raided:electromancer",
+    "alexsmobs:orca",
+    "creeperoverhaul:hills_creeper",
+    "alexsmobs:jerboa",
+    "minecraft:bat",
+    "alexsmobs:cosmaw",
+    "alexsmobs:comb_jelly",
+    "dragonmounts:dragon",
+    "difficultraids:shaman_illager",
+    "creeperoverhaul:bamboo_creeper",
+    "difficultraids:ashenmancer_illager",
+    "tconstruct:ender_slime",
+    "alexsmobs:skunk",
+    "alexsmobs:enderiophage",
+    "alexsmobs:sunbird",
+    "alexsmobs:tasmanian_devil",
+    "majruszsdifficulty:cursed_armor",
+    "minecraft:cat",
+    "alexsmobs:stradpole",
+    "minecraft:tropical_fish",
+    "minecraft:panda",
+    "minecraft:zombie_villager",
+    "alexsmobs:froststalker",
+    "minecraft:giant",
+    "alexsmobs:lobster",
+    "mowziesmobs:lantern",
+    "alexsmobs:seagull",
+    "alexsmobs:moose",
+    "alexsmobs:shoebill",
+    "alexsmobs:farseer",
+    "difficultraids:modur_elite",
+    "alexsmobs:warped_mosco",
+    "difficultraids:dart_illager",
+    "creeperoverhaul:cave_creeper",
+    "minecraft:husk",
+    "a_man_with_plushies:shadow_ratatin",
+    "mowziesmobs:umvuthana",
+    "alexsmobs:komodo_dragon",
+    "minecraft:donkey",
+    "mowziesmobs:umvuthana_crane_player",
+    "minecraft:piglin_brute",
+    "alexsmobs:crocodile",
+    "majruszsdifficulty:illusioner",
+    "alexsmobs:triops",
+    "alexsmobs:rhinoceros",
+    "difficultraids:necromancer_illager",
+    "alexsmobs:frilled_shark",
+    "alexsmobs:bald_eagle",
+    "alexsmobs:blobfish",
+    "knightquest:ghastling",
+    "alexsmobs:mimicube",
+    "alexsmobs:void_worm",
+    "aether:mimic",
+    "minecraft:parrot",
+    "alexsmobs:centipede_head",
+    "creeperoverhaul:desert_creeper",
+    "minecraft:frog",
+    "alexsmobs:banana_slug",
+    "alexsmobs:mimic_octopus",
+    "knightquest:netherman_clone",
+    "difficultraids:voldon_familiar",
+    "alexsmobs:bunfungus",
+    "alexsmobs:void_worm_part",
+    "minecraft:mule",
+    "minecraft:vindicator",
+    "alexsmobs:flying_fish",
+    "majruszsdifficulty:tank",
+    "minecraft:evoker",
+    "knightquest:swampman",
+    "creeperoverhaul:mushroom_creeper",
+    "alexsmobs:tarantula_hawk",
+    "alexsmobs:cachalot_whale",
+    "creeperoverhaul:ocean_creeper",
+    "creeperoverhaul:dark_oak_creeper",
+    "spelunkers_charm:tremor_handler",
+    "tconstruct:sky_slime",
+    "creeperoverhaul:badlands_creeper",
+    "creeperoverhaul:snowy_creeper",
+    "alexsmobs:terrapin",
+    "alexsmobs:anaconda",
+    "mowziesmobs:bluff",
+    "mowziesmobs:grottol",
+    "minecraft:pig",
+    "alexsmobs:alligator_snapping_turtle",
+    "creeperoverhaul:swamp_creeper",
+    "mowziesmobs:baby_foliaath",
+    "minecraft:goat",
+    "minecraft:cod",
+    "alexsmobs:mantis_shrimp",
+    "raided:necromancer",
+    "alexsmobs:platypus",
+    "minecraft:cow",
+    "mowziesmobs:umvuthi",
+    "alexsmobs:rocky_roller",
+    "gravestone:player_ghost",
+    "alexsmobs:soul_vulture",
+    "alexsmobs:blue_jay",
+    "alexsmobs:toucan",
+    "minecraft:salmon",
+    "mowziesmobs:naga",
+    "aether:moa",
+    "alexsmobs:anteater",
+    "alexsmobs:rain_frog",
+    "mowziesmobs:ferrous_wroughtnaut",
+    "raided:inquisitor",
+    "minecraft:rabbit",
+    "minecraft:pillager",
+    "alexsmobs:murmur",
+    "minecraft:zoglin",
+    "alexsmobs:leafcutter_ant",
+    "creeperoverhaul:dripstone_creeper",
+    "difficultraids:assassin_illager",
+    "raided:savager",
+    "alexsmobs:mungus",
+    "alexsmobs:caiman",
+    "alexsmobs:spectre",
+    "creeperoverhaul:jungle_creeper",
+    "alexsmobs:catfish",
+    "minecraft:piglin",
+    "aether:slider",
+    "alexsmobs:skelewag",
+    "spelunkers_charm:sound_entity",
+    "alexsmobs:elephant",
+    "alexsmobs:gazelle",
+    "minecraft:sniffer",
+    "minecraft:zombie_horse",
+    "minecraft:camel",
+    "minecraft:ocelot",
+    "mowziesmobs:umvuthana_follower_player",
+    "difficultraids:warrior_illager",
+    "aether:valkyrie",
+    "minecraft:wolf",
+    "aether:phyg"
+]
