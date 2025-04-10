@@ -2631,12 +2631,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/hurt": {
-    "criteria": {
-      "requirement": "2025-04-10 15:48:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-04-10 15:27:12 +0000"
@@ -3787,82 +3781,33 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
-      "log_spam_fixer": "2025-04-10 15:47:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-10 15:47:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-10 15:47:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-10 15:47:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-10 15:47:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-10 15:47:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-10 15:47:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-10 15:47:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-10 15:47:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-04-10 15:48:24 +0000",
-      "log_spam_fixer": "2025-04-10 15:47:53 +0000"
+      "has_pumpkin": "2025-04-10 15:38:33 +0000"
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
     "criteria": {
-      "log_spam_fixer": "2025-04-10 15:47:53 +0000"
+      "has_pumpkin": "2025-04-10 15:38:33 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-10 15:47:53 +0000"
+      "has_pumpkin": "2025-04-10 15:38:33 +0000"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_planks": {
+  "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
-      "has_logs": "2025-04-10 15:47:20 +0000"
+      "has_pumpkin": "2025-04-10 15:38:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/moa_egg_pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-04-10 15:38:33 +0000"
     },
     "done": true
   },
@@ -3872,47 +3817,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-04-10 15:53:18 +0000",
+      "cooked_mutton": "2025-04-10 15:44:49 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_brown": {
     "criteria": {
       "has_brown_wool": "2025-04-10 15:45:47 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2025-04-10 15:38:33 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:got_wood": {
-    "criteria": {
-      "bamboo_log": "2025-04-10 15:47:20 +0000"
-    },
-    "done": false
-  },
-  "regions_unexplored:regions_explored": {
-    "criteria": {
-      "bamboo_forest": "2025-04-10 15:46:40 +0000"
-    },
-    "done": false
-  },
-  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
-    "criteria": {
-      "has_pumpkin": "2025-04-10 15:38:33 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:pioneer": {
-    "criteria": {
-      "bamboo_forest": "2025-04-10 15:46:40 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "cooked_mutton": "2025-04-10 15:44:49 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
@@ -3923,12 +3839,6 @@
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2025-04-10 15:45:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
-    "criteria": {
-      "has_pumpkin": "2025-04-10 15:38:33 +0000"
     },
     "done": true
   },
@@ -3944,21 +3854,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-04-10 15:38:33 +0000"
-    },
-    "done": true
-  },
   "adorn:recipes/brown_sofa": {
     "criteria": {
       "has_wool": "2025-04-10 15:45:47 +0000"
     },
     "done": true
   },
-  "aether:recipes/food/moa_egg_pumpkin_pie": {
+  "regions_unexplored:regions_explored": {
     "criteria": {
-      "has_pumpkin": "2025-04-10 15:38:33 +0000"
+      "bamboo_forest": "2025-04-10 15:46:40 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "bamboo_forest": "2025-04-10 15:46:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2025-04-10 15:47:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "bamboo_log": "2025-04-10 15:47:20 +0000"
+    },
+    "done": false
+  },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2025-04-10 15:48:24 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-04-10 15:54:47 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/cobblestone_step": {
+    "criteria": {
+      "has_slab": "2025-04-10 15:53:33 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/cobblestone_platform": {
+    "criteria": {
+      "has_slab": "2025-04-10 15:53:33 +0000"
     },
     "done": true
   },
