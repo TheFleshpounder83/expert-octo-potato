@@ -2,6 +2,7 @@
   "schemaVersion": 2,
   "items": [
     "$minecraft:vanishable",
+    "supplementaries:key",
     "securitycraft:briefcase",
     "$minecraft:universal_enchants_horse_armor"
   ],

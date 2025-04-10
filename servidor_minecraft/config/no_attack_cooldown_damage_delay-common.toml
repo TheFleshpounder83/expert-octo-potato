@@ -1,0 +1,7 @@
+#Removes the players attack cooldown.
+NoAttackCooldown = true
+#Removes the delay between hits.
+NoDamageDelay = true
+#Removes the cooldown indikator wehen you punch
+RemoveCooldownIndicator = true
+

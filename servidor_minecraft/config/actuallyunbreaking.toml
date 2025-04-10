@@ -2,7 +2,7 @@
 ["Actually Unbreaking Config"]
 	#only the last level of unbreaking will set the tool
 	#to be unbreakable if this is true. default = false
-	maxLevelOnly = false
+	maxLevelOnly = true
 	#if this is true, the tool will only be
 	#unbreakable at a specified level
 	#and above that level (overrides max level option).
@@ -23,5 +23,5 @@
 	#removed from the tool (you will no longer be able
 	#to add unbreaking and mending to the tool) if this is true.
 	#default = true
-	useUnbreakableTag = true
+	useUnbreakableTag = false
 

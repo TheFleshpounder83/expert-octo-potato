@@ -1,7 +1,8 @@
 {
   "schemaVersion": 2,
   "items": [
-    "$minecraft:digger"
+    "$minecraft:digger",
+    "twilightforest:block_and_chain"
   ],
   "incompatible": []
 }

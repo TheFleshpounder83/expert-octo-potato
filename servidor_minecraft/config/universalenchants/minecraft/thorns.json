@@ -5,5 +5,8 @@
     "$minecraft:universal_enchants_horse_armor",
     "$minecraft:universal_enchants_shield"
   ],
-  "incompatible": []
+  "incompatible": [
+    "twilightforest:chill_aura",
+    "twilightforest:fire_react"
+  ]
 }

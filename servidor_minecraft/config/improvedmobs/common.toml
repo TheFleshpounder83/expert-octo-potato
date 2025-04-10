@@ -2,7 +2,7 @@
 #Default difficulty caps at 250
 [general]
 	#Disable/Enables the whole difficulty scaling of this mod. Requires a mc restart
-	"Enable difficulty scaling" = true
+	"Enable difficulty scaling" = false
 	#Time in ticks for which the difficulty shouldnt increase at the beginning. One full minecraft day is 24000 ticks
 	#Range: > 0
 	"Difficulty Delay" = 0
@@ -55,7 +55,7 @@
 	#<#minecraft:raiders|ATTRIBUTES> will add all entities in the raiders tag to everything except attributes
 	#<minecraft:sheep|ATTRIBUTES> will add sheep to everything except attributes
 	#<minecraft> disables everything for all minecraft mobs
-	"Entity Configs" = ["alexsmobs:emu", "alexsmobs:cockroach", "alexsmobs:froststalker", "spelunkers_charm:tremor_handler", "alexsmobs:centipede_tail", "alexsmobs:snow_leopard", "alexsmobs:lobster", "mowziesmobs:lantern", "alexsmobs:seagull", "alexsmobs:moose", "alexsmobs:seal", "minecraft:glow_squid", "alexsmobs:shoebill", "alexsmobs:flutter", "aether:aechor_plant", "alexsmobs:roadrunner", "alexsmobs:laviathan", "minecraft:trader_llama", "alexsmobs:terrapin", "alexsmobs:capuchin_monkey", "alexsmobs:endergrade", "minecraft:horse", "alexsmobs:anaconda", "minecraft:polar_bear", "mowziesmobs:bluff", "aether:sheepuff", "mowziesmobs:grottol", "minecraft:llama", "minecraft:pig", "minecraft:turtle", "alexsmobs:alligator_snapping_turtle", "alexsmobs:maned_wolf", "minecraft:sheep", "mowziesmobs:baby_foliaath", "biomeswevegone:man_o_war", "minecraft:tadpole", "minecraft:goat", "minecraft:dolphin", "alexsmobs:rattlesnake", "a_man_with_plushies:shadow_ratatin", "aether:evil_whirlwind", "alexsmobs:gelada_monkey", "knightquest:momma_lizzy", "minecraft:cod", "alexsmobs:mantis_shrimp", "alexsmobs:komodo_dragon", "alexsmobs:hammerhead_shark", "minecraft:donkey", "alexsmobs:tiger", "alexsmobs:raccoon", "alexsmobs:grizzly_bear", "alexsmobs:platypus", "minecraft:squid", "minecraft:skeleton_horse", "mowziesmobs:umvuthana_crane_player", "alexsmobs:potoo", "minecraft:cow", "alexsmobs:fly", "minecraft:bee", "alexsmobs:devils_hole_pupfish", "alexsmobs:crocodile", "alexsmobs:blue_jay", "alexsmobs:toucan", "minecraft:salmon", "alexsmobs:sea_bear", "aether:moa", "alexsmobs:triops", "minecraft:snow_golem", "alexsmobs:rhinoceros", "mowziesmobs:sculptor", "minecraft:mooshroom", "alexsmobs:frilled_shark", "alexsmobs:bison", "alexsmobs:anteater", "alexsmobs:mudskipper", "minecraft:villager", "alexsmobs:rain_frog", "knightquest:samhain", "alexsmobs:bald_eagle", "alexsmobs:sugar_glider", "minecraft:rabbit", "minecraft:axolotl", "alexsmobs:blobfish", "alexsmobs:gorilla", "aether:whirlwind", "alexsmobs:orca", "alexsmobs:tusklin", "minecraft:strider", "minecraft:parrot", "alexsmobs:leafcutter_ant", "securitycraft:sentry", "alexsmobs:cosmic_cod", "alexsmobs:underminer", "alexsmobs:mungus", "alexsmobs:jerboa", "minecraft:bat", "minecraft:wandering_trader", "alexsmobs:caiman", "alexsmobs:spectre", "alexsmobs:cosmaw", "aether:flying_cow", "alexsmobs:catfish", "biomeswevegone:oddion", "minecraft:frog", "minecraft:iron_golem", "alexsmobs:kangaroo", "alexsmobs:comb_jelly", "dragonmounts:dragon", "alexsmobs:banana_slug", "dummmmmmy:target_dummy", "aether:aerwhale", "spelunkers_charm:sound_entity", "alexsmobs:mimic_octopus", "alexsmobs:hummingbird", "alexsmobs:elephant", "alexsmobs:bunfungus", "alexsmobs:gazelle", "minecraft:mule", "minecraft:sniffer", "alexsmobs:skunk", "alexsmobs:crow", "minecraft:zombie_horse", "alexsmobs:sunbird", "minecraft:camel", "alexsmobs:flying_fish", "alexsmobs:tasmanian_devil", "alexsmobs:centipede_body", "aether:cloud_minion", "minecraft:cat", "minecraft:pufferfish", "alexsmobs:stradpole", "aether:aerbunny", "alexsmobs:tarantula_hawk", "minecraft:fox", "alexsmobs:cachalot_whale", "minecraft:allay", "minecraft:tropical_fish", "knightquest:lizzy", "biomeswevegone:pumpkin_warden", "minecraft:ocelot", "mowziesmobs:umvuthana_follower_player", "alexsmobs:warped_toad", "minecraft:chicken", "alexsmobs:giant_squid", "minecraft:wolf", "aether:phyg", "minecraft:panda"]
+	"Entity Configs" = ["alexsmobs:emu", "luckytntmod:evil_tnt", "alexsmobs:cockroach", "alexsmobs:froststalker", "alexsmobs:centipede_tail", "alexsmobs:snow_leopard", "undead_revamp2:coppertar", "alexsmobs:lobster", "alexsmobs:seagull", "mca:female_villager", "alexsmobs:moose", "alexsmobs:seal", "minecraft:glow_squid", "alexsmobs:shoebill", "alexsmobs:flutter", "alexsmobs:roadrunner", "alexsmobs:laviathan", "minecraft:trader_llama", "alexsmobs:terrapin", "alexsmobs:capuchin_monkey", "alexsmobs:endergrade", "minecraft:horse", "alexsmobs:anaconda", "minecraft:polar_bear", "enemyexpansion:meature", "mca:grim_reaper", "luckytntmod:vicious_tnt", "minecraft:llama", "minecraft:pig", "twilightforest:raven", "minecraft:turtle", "alexsmobs:alligator_snapping_turtle", "alexsmobs:maned_wolf", "minecraft:sheep", "biomeswevegone:man_o_war", "minecraft:tadpole", "minecraft:goat", "minecraft:dolphin", "alexsmobs:rattlesnake", "alexsmobs:gelada_monkey", "knightquest:momma_lizzy", "mca:male_villager", "minecraft:cod", "alexsmobs:mantis_shrimp", "alexsmobs:komodo_dragon", "luckytntmod:attacking_tnt", "alexsmobs:hammerhead_shark", "minecraft:donkey", "alexsmobs:tiger", "alexsmobs:raccoon", "twilightforest:loyal_zombie", "alexsmobs:grizzly_bear", "alexsmobs:platypus", "minecraft:squid", "minecraft:skeleton_horse", "twilightforest:tiny_bird", "alexsmobs:potoo", "minecraft:cow", "alexsmobs:fly", "minecraft:bee", "alexsmobs:devils_hole_pupfish", "alexsmobs:crocodile", "alexsmobs:blue_jay", "alexsmobs:toucan", "minecraft:salmon", "alexsmobs:sea_bear", "twilightforest:quest_ram", "alexsmobs:triops", "minecraft:snow_golem", "alexsmobs:rhinoceros", "undead_revamp2:smokesmitter", "minecraft:mooshroom", "alexsmobs:frilled_shark", "alexsmobs:bison", "alexsmobs:anteater", "alexsmobs:mudskipper", "minecraft:villager", "alexsmobs:rain_frog", "knightquest:samhain", "alexsmobs:bald_eagle", "alexsmobs:sugar_glider", "supplementaries:red_merchant", "minecraft:rabbit", "minecraft:axolotl", "alexsmobs:blobfish", "enemyexpansion:vampbiter", "alexsmobs:gorilla", "alexsmobs:orca", "alexsmobs:tusklin", "minecraft:strider", "minecraft:parrot", "alexsmobs:leafcutter_ant", "securitycraft:sentry", "alexsmobs:cosmic_cod", "alexsmobs:underminer", "twilightforest:bighorn_sheep", "alexsmobs:mungus", "alexsmobs:jerboa", "minecraft:bat", "minecraft:wandering_trader", "alexsmobs:caiman", "alexsmobs:spectre", "alexsmobs:cosmaw", "alexsmobs:catfish", "biomeswevegone:oddion", "minecraft:frog", "minecraft:iron_golem", "alexsmobs:kangaroo", "alexsmobs:comb_jelly", "twilightforest:deer", "alexsmobs:banana_slug", "dummmmmmy:target_dummy", "alexsmobs:mimic_octopus", "alexsmobs:hummingbird", "alexsmobs:elephant", "undead_revamp2:flame", "alexsmobs:bunfungus", "luckytntmod:walking_tnt", "alexsmobs:gazelle", "twilightforest:squirrel", "minecraft:mule", "minecraft:sniffer", "alexsmobs:skunk", "alexsmobs:crow", "minecraft:zombie_horse", "alexsmobs:sunbird", "minecraft:camel", "alexsmobs:flying_fish", "alexsmobs:tasmanian_devil", "alexsmobs:centipede_body", "twilightforest:boar", "minecraft:cat", "minecraft:pufferfish", "alexsmobs:stradpole", "alexsmobs:tarantula_hawk", "twilightforest:dwarf_rabbit", "minecraft:fox", "alexsmobs:cachalot_whale", "minecraft:allay", "minecraft:tropical_fish", "knightquest:lizzy", "biomeswevegone:pumpkin_warden", "minecraft:ocelot", "twilightforest:penguin", "alexsmobs:warped_toad", "minecraft:chicken", "alexsmobs:giant_squid", "minecraft:wolf", "minecraft:panda"]
 	#Any of the following 
 	#[ATTRIBUTES, ARMOR, HELDITEMS, BLOCKBREAK, USEITEM, LADDER, STEAL, GUARDIAN, PARROT, TARGETVILLAGER, NEUTRALAGGRO, PEHKUI]
 	#added here will disable that feature completely.
@@ -82,7 +82,7 @@
 	#Treat TARGETVILLAGER flags as whitelist
 	"Villager Whitelist" = false
 	#Treat NEUTRALAGGRO flags as whitelist
-	"Neutral Aggro Whitelist" = false
+	"Neutral Aggro Whitelist" = true
 	#Treat PEHKUI flags as whitelist (Needs pehkui installed)
 	"Pehkui Whitelist" = false
 
@@ -120,14 +120,14 @@
 	#Whitelist for blocks, which can be actively broken. 
 	#Usage: id|namespace|#tag. Put "!" infront to exclude blocks. E.g. "minecraft", "minecraft:dirt" or "#minecraft:planks"
 	#Note: If you include common blocks (like grass blocks) the pathfinding can have undesirable results.
-	"Block Break Whitelist" = ["#forge:glass", "#forge:glass_panes", "#minecraft:fence_gates", "#forge:fence_gates", "#minecraft:wooden_doors"]
+	"Block Break Whitelist" = []
 	#Treat Block Whitelist as Blocklist
-	"Breaklist as Blacklist" = false
+	"Breaklist as Blacklist" = true
 	#Use the block breaking sound instead of a knocking sound
-	Sound = false
+	Sound = true
 	#Chance for a mob to be able to break blocks
 	#Range: 0.0 ~ 1.0
-	"Breaker Chance" = 0.30000001192092896
+	"Breaker Chance" = 0.0
 	#Initial cooldown for block breaking mobs
 	#Range: > 0
 	"Breaker Initial Cooldown" = 120
@@ -159,9 +159,9 @@
 	"Steal Block Blacklist" = []
 	#Items which will be given to mobs who can break blocks. Empty list = no items. Syntax: id;weight
 	#Note: Mobs can only break blocks if the tool they are holding can break the blocks
-	"Breaking items" = ["minecraft:diamond_pickaxe;1", "minecraft:iron_axe;2"]
+	"Breaking items" = ["minecraft:iron_axe;2"]
 	#Should mobs be able to break block entities? Evaluated before the break list
-	"Break BlockEntities" = true
+	"Break BlockEntities" = false
 	#Chance for neutral mobs to be aggressive
 	#Range: 0.0 ~ 1.0
 	"Neutral Aggressive Chance" = 0.05000000074505806
@@ -181,7 +181,7 @@
 	#Range: 0.0 ~ 1.0
 	"Phantom Chance" = 0.5
 	#Set this to true to allow tnt thrown by mobs to destroy blocks
-	"TNT Block Destruction" = false
+	"TNT Block Destruction" = true
 	#Chance for a mob to ignore line of sight
 	#This config ONLY affects villager target, neutral aggressive and auto targeting feature
 	#Range: 0.0 ~ 1.0
@@ -240,7 +240,7 @@
 	#Range: 0.0 ~ 1.7976931348623157E308
 	"Item Chance add" = 0.20000000298023224
 	#Should mobs drop the armor equipped through this mod? Will not change drops if the mob obtained the armor through other means (e.g. vanilla)
-	"Should drop equipment" = false
+	"Should drop equipment" = true
 
 #Settings for attribute modifiers
 [attributes]

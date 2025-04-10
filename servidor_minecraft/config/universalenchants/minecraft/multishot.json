@@ -2,7 +2,10 @@
   "schemaVersion": 2,
   "items": [
     "$minecraft:crossbow",
+    "supplementaries:slingshot",
     "$minecraft:bow"
   ],
-  "incompatible": []
+  "incompatible": [
+    "supplementaries:stasis"
+  ]
 }

@@ -1,204 +1,2142 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1743531016600 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1744293982266 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjAIcAAAAAQAAAAEAAAAAAAAAAHpj3LJ4VeJ5RKEXkFK7ZW-ACrfwOvSVC2Tv2mnrNiJr
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531020349 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744293985656 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjAIcAAAAAQAAAAEAAAAAAAAAAHpj3LJ4VeJ5RKEXkFK7ZW-ACrfwOvSVC2Tv2mnrNiJr
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531024295 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744293988882 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjAIcAAAAAQAAAAEAAAAAAAAAAHpj3LJ4VeJ5RKEXkFK7ZW-ACrfwOvSVC2Tv2mnrNiJr
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531027511 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744293992084 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjAIcAAAAAQAAAAEAAAAAAAAAAHpj3LJ4VeJ5RKEXkFK7ZW-ACrfwOvSVC2Tv2mnrNiJr
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531030638 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744293995326 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjAIcAAAAAQAAAAEAAAAAAAAAAHpj3LJ4VeJ5RKEXkFK7ZW-ACrfwOvSVC2Tv2mnrNiJr
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531033793 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744293998517 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjET9AAAAAQAAAAEAAAAAAAAAALtRLl5GjsDmA_cF0VjzSteyfrAwIQAnx9r3OoKCBaya
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531036978 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744294001757 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjET9AAAAAQAAAAEAAAAAAAAAALtRLl5GjsDmA_cF0VjzSteyfrAwIQAnx9r3OoKCBaya
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531040066 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744294004986 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjET9AAAAAQAAAAEAAAAAAAAAALtRLl5GjsDmA_cF0VjzSteyfrAwIQAnx9r3OoKCBaya
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531043209 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744294008165 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjET9AAAAAQAAAAEAAAAAAAAAALtRLl5GjsDmA_cF0VjzSteyfrAwIQAnx9r3OoKCBaya
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531046288 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744294011615 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjET9AAAAAQAAAAEAAAAAAAAAALtRLl5GjsDmA_cF0VjzSteyfrAwIQAnx9r3OoKCBaya
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531049357 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744294014696 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjIHOAAAAAQAAAAEAAAAAAAAAAExGAZGsNwkaEiglrdeCwPxqcH0GHjMhccflffBcjzBt
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531052783 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744294018403 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjIHOAAAAAQAAAAEAAAAAAAAAAExGAZGsNwkaEiglrdeCwPxqcH0GHjMhccflffBcjzBt
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531055857 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744294021891 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjIHOAAAAAQAAAAEAAAAAAAAAAExGAZGsNwkaEiglrdeCwPxqcH0GHjMhccflffBcjzBt
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531059034 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744294025101 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjIHOAAAAAQAAAAEAAAAAAAAAAExGAZGsNwkaEiglrdeCwPxqcH0GHjMhccflffBcjzBt
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531062493 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744294028389 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjIHOAAAAAQAAAAEAAAAAAAAAAExGAZGsNwkaEiglrdeCwPxqcH0GHjMhccflffBcjzBt
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531065913 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744294031561 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjMLFAAAAAQAAAAEAAAAAAAAAANmdWM_WTEWEGe4HarTn8UjqHct2OdBi7zIONhSxVCRj
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531069414 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744294034641 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjMLFAAAAAQAAAAEAAAAAAAAAANmdWM_WTEWEGe4HarTn8UjqHct2OdBi7zIONhSxVCRj
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531073542 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744294037730 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjMLFAAAAAQAAAAEAAAAAAAAAANmdWM_WTEWEGe4HarTn8UjqHct2OdBi7zIONhSxVCRj
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531076655 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744294040981 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjMLFAAAAAQAAAAEAAAAAAAAAANmdWM_WTEWEGe4HarTn8UjqHct2OdBi7zIONhSxVCRj
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531079840 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744294044531 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjMLFAAAAAQAAAAEAAAAAAAAAANmdWM_WTEWEGe4HarTn8UjqHct2OdBi7zIONhSxVCRj
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531082970 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744294047602 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjQnKAAAAAQAAAAEAAAAAAAAAACQTmCWnrUgKwfCGKJhZFAo-OAPX7YvXPdifsYr40wn3
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531088054 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744294050955 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjQnKAAAAAQAAAAEAAAAAAAAAACQTmCWnrUgKwfCGKJhZFAo-OAPX7YvXPdifsYr40wn3
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531091689 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744294055245 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjQnKAAAAAQAAAAEAAAAAAAAAACQTmCWnrUgKwfCGKJhZFAo-OAPX7YvXPdifsYr40wn3
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531094811 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744294058460 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjQnKAAAAAQAAAAEAAAAAAAAAACQTmCWnrUgKwfCGKJhZFAo-OAPX7YvXPdifsYr40wn3
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531097881 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744294061532 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjQnKAAAAAQAAAAEAAAAAAAAAACQTmCWnrUgKwfCGKJhZFAo-OAPX7YvXPdifsYr40wn3
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531100988 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744294065115 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjUtpAAAAAQAAAAEAAAAAAAAAAEkOUS7NQ9m6BynNHHoY9uCm4_dmYRX2BpkcJpnhQ2xo
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531104242 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744294068516 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjUtpAAAAAQAAAAEAAAAAAAAAAEkOUS7NQ9m6BynNHHoY9uCm4_dmYRX2BpkcJpnhQ2xo
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531107639 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744294071845 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjUtpAAAAAQAAAAEAAAAAAAAAAEkOUS7NQ9m6BynNHHoY9uCm4_dmYRX2BpkcJpnhQ2xo
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531110759 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744294075292 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjUtpAAAAAQAAAAEAAAAAAAAAAEkOUS7NQ9m6BynNHHoY9uCm4_dmYRX2BpkcJpnhQ2xo
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531114120 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744294079523 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjUtpAAAAAQAAAAEAAAAAAAAAAEkOUS7NQ9m6BynNHHoY9uCm4_dmYRX2BpkcJpnhQ2xo
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531117595 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744294083108 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjYyIAAAAAQAAAAEAAAAAAAAAAINK43gwzObvOTDrJ2V7GUkG7gjR-ows4mh8rDT6nH9M
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531121044 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744294086189 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjYyIAAAAAQAAAAEAAAAAAAAAAINK43gwzObvOTDrJ2V7GUkG7gjR-ows4mh8rDT6nH9M
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531124215 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744294089268 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjYyIAAAAAQAAAAEAAAAAAAAAAINK43gwzObvOTDrJ2V7GUkG7gjR-ows4mh8rDT6nH9M
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743531127757 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744294092500 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABII6QAAAZXyjYyIAAAAAQAAAAEAAAAAAAAAAINK43gwzObvOTDrJ2V7GUkG7gjR-ows4mh8rDT6nH9M
 
 TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294095649 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294098734 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294101814 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294104874 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294107950 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294111022 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294114987 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294118232 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294121440 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294124694 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294128073 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294131323 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294135070 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294138591 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294141854 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294145693 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294149080 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294152328 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294155964 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294159260 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294162496 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294165716 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294169224 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294172441 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294176317 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294179561 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294182922 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294186630 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294190053 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294193215 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294196424 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294199795 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294204470 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294207724 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294210824 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294214320 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294217578 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294221991 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294225107 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294228206 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294231417 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294234961 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294238109 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294241593 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294245864 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294249920 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294253161 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294256234 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294259411 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294263609 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294266679 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294269871 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294273017 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294276135 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294279288 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294282507 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294285587 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294289007 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294292255 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294295867 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294299378 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294302483 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294305928 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294309097 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294312292 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294315592 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294318689 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294321923 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294325223 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294328650 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294332317 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294335593 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294339878 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294342963 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294346052 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294349133 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294352210 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294356056 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294359346 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294362413 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294366610 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294369874 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294372954 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294376351 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294379459 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294382535 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294385747 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294388956 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294392036 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294395134 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294398336 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294401526 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294405086 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294408328 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294411409 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294414484 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294417596 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294420751 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294424010 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294427166 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294430428 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294433516 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294436590 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294439673 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294442976 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294446170 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294449315 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294452414 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294455494 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294458716 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294461874 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294466529 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294470464 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294473591 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294476681 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294479835 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294482926 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294485995 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294489078 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294492230 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294495332 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294498565 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294501868 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294505059 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294508144 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294511232 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294514330 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294518070 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294521638 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294525402 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294528531 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294531611 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294534806 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294538026 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294541106 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294544241 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294547497 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294551121 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294554230 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294557326 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294563824 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294567144 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294570235 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294573845 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294576975 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294580155 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294583239 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294586466 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294589592 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294592687 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294595960 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294599771 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294602865 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294606360 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294609467 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294613055 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294616151 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294619232 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294622365 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294625583 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294628708 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294631781 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294634895 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294638052 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294641350 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294644483 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294648783 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294652045 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294655130 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294658315 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294661494 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294664696 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294667832 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294670942 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294674105 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294680509 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294684246 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294687360 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294690749 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294694162 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294697265 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294700359 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294703604 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294706971 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294710298 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294714038 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294717547 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294720898 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294723974 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294727084 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294730283 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294733360 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294736440 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294739553 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294742670 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294747061 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294750218 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294753319 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294758321 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294761482 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294764911 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294768037 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294772349 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294775431 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294778545 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294781786 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294785432 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294788553 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294791736 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294795055 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294798176 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294801446 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294804660 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294808334 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294811930 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294815221 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294818459 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294821552 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294825121 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294828713 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294832033 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294835392 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294838535 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294841698 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294844951 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294848297 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294851467 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294854729 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294858192 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294862658 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294865851 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294869015 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294872106 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294875244 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294878413 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294881602 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294885261 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294888474 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294891567 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294894854 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294898318 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294901433 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294904531 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294908190 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294911518 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294915121 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294918229 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294921515 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294924753 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294928001 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294931245 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294934327 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294937483 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294940627 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294943912 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294947013 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294950438 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294953520 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294956741 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294959970 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294963097 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294969395 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294972537 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294975652 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294978766 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294981862 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294984944 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294988198 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294991310 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294994526 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744294997643 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295002778 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295005866 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295008959 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295012103 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295015253 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295018330 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295021403 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295024621 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295028067 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295031150 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295034247 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295037317 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295041032 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295044256 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295047348 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295050438 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295053657 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295056741 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295059831 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295062979 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295066083 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295069206 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295072341 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295075428 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295078509 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295081844 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295084993 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295088217 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295091338 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295094432 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295097548 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295100657 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295103729 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295107002 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295110335 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295113422 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295117199 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295120432 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295123534 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295126663 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295129771 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295132854 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295135939 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295139077 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295142166 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295145271 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295150202 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295153285 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295156388 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295159471 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295162572 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
+finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744295165718 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+vote-edmonton.gl.at.ply.gg:4386 => 127.0.0.1:4386 (proto: Udp, port count: 1)
 finally-announcements.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
