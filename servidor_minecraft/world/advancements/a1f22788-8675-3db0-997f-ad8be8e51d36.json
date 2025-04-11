@@ -17,12 +17,6 @@
     },
     "done": true
   },
-  "vanillatweaks:confetti_creepers": {
-    "criteria": {
-      "tick": "2025-04-10 17:49:03 +0000"
-    },
-    "done": true
-  },
   "vanillatweaks:dragon_drops": {
     "criteria": {
       "tick": "2025-04-10 17:49:03 +0000"
@@ -3839,51 +3833,15 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/bamboo_blue_leggings": {
+  "minecraft:recipes/decorations/smoker": {
     "criteria": {
-      "has_bamboo": "2025-04-10 18:28:41 +0000"
+      "has_furnace": "2025-04-10 18:12:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_wood": {
+  "aether:recipes/tools/stone_axe_repairing": {
     "criteria": {
-      "has_log": "2025-04-10 18:27:07 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/bamboo_chestplate": {
-    "criteria": {
-      "has_coal": "2025-04-10 18:19:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_iron_block": {
-    "criteria": {
-      "has_raw_iron": "2025-04-10 18:29:02 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/maple_shrub": {
-    "criteria": {
-      "has_maple_sapling": "2025-04-10 18:13:43 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/bamboo_leggings": {
-    "criteria": {
-      "has_coal": "2025-04-10 18:19:29 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
-    "criteria": {
-      "has_wheat": "2025-04-10 18:32:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-04-10 18:29:42 +0000"
+      "has_stone_axe": "2025-04-10 18:13:14 +0000"
     },
     "done": true
   },
@@ -3893,141 +3851,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/baked_cod_stew": {
+  "regions_unexplored:recipes/building_blocks/maple_wood": {
     "criteria": {
-      "has_any_ingredient": "2025-04-10 18:32:22 +0000"
+      "has_log": "2025-04-10 18:13:39 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/chainmail_helmet": {
+  "regions_unexplored:recipes/building_blocks/maple_planks": {
     "criteria": {
-      "has_apple": "2025-04-10 18:14:04 +0000"
+      "has_logs": "2025-04-10 18:13:39 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/bow_repairing": {
+  "regions_unexplored:recipes/decorations/maple_shrub": {
     "criteria": {
-      "has_bow": "2025-04-10 18:28:43 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2025-04-10 18:14:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-04-10 18:19:34 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2025-04-10 18:33:23 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/bamboo_blue_chestplate": {
-    "criteria": {
-      "has_bamboo": "2025-04-10 18:28:41 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/heating/baked_potato": {
-    "criteria": {
-      "has_ingredient": "2025-04-10 18:32:22 +0000"
-    },
-    "done": true
-  },
-  "vanilla_refresh:biome/ocean": {
-    "criteria": {
-      "requirement": "2025-04-10 18:26:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-04-10 18:28:43 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
-    "criteria": {
-      "has_log": "2025-04-10 18:27:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-04-10 18:29:02 +0000"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/bamboo": {
-    "criteria": {
-      "has_wood": "2025-04-10 18:28:41 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/pie_crust": {
-    "criteria": {
-      "has_wheat": "2025-04-10 18:32:22 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/jungle": {
-    "criteria": {
-      "has_wood": "2025-04-10 18:27:07 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/jacaranda_planks": {
-    "criteria": {
-      "has_log": "2025-04-10 18:20:43 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/tunic_green_leggings": {
-    "criteria": {
-      "has_apple": "2025-04-10 18:14:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-04-10 18:32:22 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/bamboo_blue_boots": {
-    "criteria": {
-      "has_bamboo": "2025-04-10 18:28:41 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
-    "criteria": {
-      "has_wheat": "2025-04-10 18:32:22 +0000"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/jungle": {
-    "criteria": {
-      "has_wood": "2025-04-10 18:27:07 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2025-04-10 18:16:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smoker": {
-    "criteria": {
-      "has_furnace": "2025-04-10 18:12:45 +0000"
+      "has_maple_sapling": "2025-04-10 18:13:43 +0000"
     },
     "done": true
   },
@@ -4037,39 +3875,75 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/chainmail_helmet": {
+    "criteria": {
+      "has_apple": "2025-04-10 18:14:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-04-10 18:14:04 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tunic_green_leggings": {
+    "criteria": {
+      "has_apple": "2025-04-10 18:14:04 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tunic_sea_leggings": {
+    "criteria": {
+      "has_apple": "2025-04-10 18:14:04 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
+    "criteria": {
+      "apple": "2025-04-10 18:14:04 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/tunic_blue_leggings": {
+    "criteria": {
+      "has_apple": "2025-04-10 18:14:04 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tunic_red_leggings": {
+    "criteria": {
+      "has_apple": "2025-04-10 18:14:04 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tunic_yellow_leggings": {
+    "criteria": {
+      "has_apple": "2025-04-10 18:14:04 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/terralith/highland_forest": {
+    "criteria": {
+      "requirement": "2025-04-10 18:14:56 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-04-10 18:16:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/canvas": {
     "criteria": {
       "has_straw": "2025-04-10 18:17:02 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_dispenser": {
-    "criteria": {
-      "has_bow": "2025-04-10 18:28:43 +0000"
-    },
-    "done": true
-  },
   "knightquest:knightquest": {
     "criteria": {
       "requirement": "2025-04-10 18:17:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-04-10 18:29:02 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/bamboo_green_helmet": {
-    "criteria": {
-      "has_bamboo": "2025-04-10 18:28:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-04-10 18:32:22 +0000"
     },
     "done": true
   },
@@ -4085,9 +3959,201 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/mutton_wrap": {
+  "farmersdelight:recipes/tools/lead_from_straw": {
     "criteria": {
-      "has_mutton": "2025-04-10 18:33:23 +0000"
+      "has_straw": "2025-04-10 18:17:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/rope": {
+    "criteria": {
+      "has_straw": "2025-04-10 18:17:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_straw": "2025-04-10 18:17:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/straw_bale": {
+    "criteria": {
+      "has_straw": "2025-04-10 18:17:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2025-04-10 18:17:02 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/steel_axe": {
+    "criteria": {
+      "has_charcoal": "2025-04-10 18:17:57 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/steel_sword": {
+    "criteria": {
+      "has_charcoal": "2025-04-10 18:17:57 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_chestplate": {
+    "criteria": {
+      "has_coal": "2025-04-10 18:19:29 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_leggings": {
+    "criteria": {
+      "has_coal": "2025-04-10 18:19:29 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_boots": {
+    "criteria": {
+      "has_coal": "2025-04-10 18:19:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-04-10 18:19:29 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_helmet": {
+    "criteria": {
+      "has_coal": "2025-04-10 18:19:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-10 18:19:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-04-10 18:19:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-10 18:19:34 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_log": "2025-04-10 18:20:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-04-10 18:20:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2025-04-10 18:23:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2025-04-10 18:23:38 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/ocean": {
+    "criteria": {
+      "requirement": "2025-04-10 18:26:07 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/misc/magenta_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_magenta_dye]": "2025-04-10 18:26:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-04-10 18:27:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
+    "criteria": {
+      "has_log": "2025-04-10 18:27:07 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-04-10 18:27:07 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-04-10 18:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-04-10 18:27:07 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_log": "2025-04-10 18:27:10 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2025-04-10 18:27:10 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_blue_leggings": {
+    "criteria": {
+      "has_bamboo": "2025-04-10 18:28:41 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_blue_chestplate": {
+    "criteria": {
+      "has_bamboo": "2025-04-10 18:28:41 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/bamboo": {
+    "criteria": {
+      "has_wood": "2025-04-10 18:28:41 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_blue_boots": {
+    "criteria": {
+      "has_bamboo": "2025-04-10 18:28:41 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_green_helmet": {
+    "criteria": {
+      "has_bamboo": "2025-04-10 18:28:41 +0000"
     },
     "done": true
   },
@@ -4103,57 +4169,129 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/steel_axe": {
-    "criteria": {
-      "has_charcoal": "2025-04-10 18:17:57 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-10 18:32:45 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-04-10 18:32:45 +0000"
-    },
-    "done": true
-  },
-  "vanilla_refresh:biome/terralith/highland_forest": {
-    "criteria": {
-      "requirement": "2025-04-10 18:14:56 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/jacaranda_wood": {
-    "criteria": {
-      "has_log": "2025-04-10 18:20:43 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/bamboo_green_leggings": {
     "criteria": {
       "has_bamboo": "2025-04-10 18:28:41 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/tools/lead_from_straw": {
+  "knightquest:recipes/misc/bamboo_blue_helmet": {
     "criteria": {
-      "has_straw": "2025-04-10 18:17:02 +0000"
+      "has_bamboo": "2025-04-10 18:28:41 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_green_chestplate": {
+    "criteria": {
+      "has_bamboo": "2025-04-10 18:28:41 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/gadgets/punji": {
+    "criteria": {
+      "has_item": "2025-04-10 18:28:41 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_green_boots": {
+    "criteria": {
+      "has_bamboo": "2025-04-10 18:28:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-04-10 18:28:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-04-10 18:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-10 18:28:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-10 18:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-04-10 18:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-04-10 18:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-04-10 18:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-10 18:29:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-04-10 18:32:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-10 18:32:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-04-10 18:32:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-04-10 18:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-10 18:32:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-04-10 18:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-10 18:32:22 +0000"
     },
     "done": true
   },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "tomato_seeds": "2025-04-10 18:32:22 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/bamboo_blue_helmet": {
-    "criteria": {
-      "has_bamboo": "2025-04-10 18:28:41 +0000"
     },
     "done": true
   },
@@ -4175,135 +4313,15 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/bamboo_boots": {
-    "criteria": {
-      "has_coal": "2025-04-10 18:19:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-04-10 18:19:34 +0000"
-    },
-    "done": true
-  },
   "domum_ornamentum:recipes/tools/wheat_extra": {
     "criteria": {
       "has_material": "2025-04-10 18:32:22 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/tunic_sea_leggings": {
-    "criteria": {
-      "has_apple": "2025-04-10 18:14:04 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
-    "criteria": {
-      "apple": "2025-04-10 18:14:04 +0000"
-    },
-    "done": false
-  },
-  "regions_unexplored:recipes/building_blocks/maple_wood": {
-    "criteria": {
-      "has_log": "2025-04-10 18:13:39 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
-    "criteria": {
-      "has_vanilla_chest": "2025-04-10 18:23:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2025-04-10 18:33:23 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/stone_sword_repairing": {
-    "criteria": {
-      "has_stone_sword": "2025-04-10 18:23:20 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/mahogany_planks": {
-    "criteria": {
-      "has_log": "2025-04-10 18:27:10 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/tunic_blue_leggings": {
-    "criteria": {
-      "has_apple": "2025-04-10 18:14:04 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/steel_sword": {
-    "criteria": {
-      "has_charcoal": "2025-04-10 18:17:57 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/rope": {
-    "criteria": {
-      "has_straw": "2025-04-10 18:17:02 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/bamboo_green_chestplate": {
-    "criteria": {
-      "has_bamboo": "2025-04-10 18:28:41 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/mahogany_wood": {
-    "criteria": {
-      "has_log": "2025-04-10 18:27:10 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
-    "criteria": {
-      "has_straw": "2025-04-10 18:17:02 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/decorations/gadgets/punji": {
-    "criteria": {
-      "has_item": "2025-04-10 18:28:41 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/tunic_red_leggings": {
-    "criteria": {
-      "has_apple": "2025-04-10 18:14:04 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/straw_bale": {
-    "criteria": {
-      "has_straw": "2025-04-10 18:17:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-04-10 18:32:22 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/maple_planks": {
-    "criteria": {
-      "has_logs": "2025-04-10 18:13:39 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/tunic_yellow_leggings": {
-    "criteria": {
-      "has_apple": "2025-04-10 18:14:04 +0000"
     },
     "done": true
   },
@@ -4319,39 +4337,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2025-04-10 18:19:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2025-04-10 18:27:07 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-04-10 18:32:22 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/bamboo_helmet": {
+  "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
-      "has_coal": "2025-04-10 18:19:29 +0000"
+      "has_any_ingredient": "2025-04-10 18:32:45 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/harvest_straw": {
+  "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
-      "harvest_straw": "2025-04-10 18:17:02 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/misc/magenta_dye_from_bwg_tag": {
-    "criteria": {
-      "TagKey[minecraft:item / biomeswevegone:dye/makes_magenta_dye]": "2025-04-10 18:26:56 +0000"
+      "has_baked_potato": "2025-04-10 18:32:45 +0000"
     },
     "done": true
   },
@@ -4361,29 +4361,102 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/bamboo_green_boots": {
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
-      "has_bamboo": "2025-04-10 18:28:41 +0000"
+      "has_mutton": "2025-04-10 18:33:23 +0000"
     },
     "done": true
   },
-  "aether:recipes/tools/stone_axe_repairing": {
+  "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
-      "has_stone_axe": "2025-04-10 18:13:14 +0000"
+      "has_mutton": "2025-04-10 18:33:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/scaffolding": {
+  "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
-      "has_bamboo": "2025-04-10 18:28:41 +0000"
+      "has_cooked_mutton": "2025-04-10 18:33:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "biomeswevegone:recipes/misc/yellow_dye_from_bwg_tag": {
     "criteria": {
-      "has_raw_copper": "2025-04-10 18:19:34 +0000"
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_yellow_dye]": "2025-04-10 18:38:33 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-10 18:46:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-10 18:46:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-10 18:46:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-10 18:46:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-10 18:46:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-10 18:46:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-10 18:46:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-10 18:46:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-10 18:46:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-04-10 18:47:30 +0000",
+      "log_spam_fixer": "2025-04-10 18:46:48 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-10 18:46:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-10 18:46:48 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
